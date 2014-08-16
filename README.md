@@ -11,7 +11,7 @@ z zasobów [Wielkopolskiej Biblioteki Cyfrowej](http://www.wbc.poznan.pl/dlibra)
 * ``djvutxt`` z pakietu ``djvulibre-bin``
 
 ```
-sudo apt-get install djvulibre-bin
+sudo apt-get install djvulibre-bin python-lxml
 sudo pip install -r requirements.txt
 ```
 
@@ -35,3 +35,4 @@ sudo pip install -r requirements.txt
 ## Publikacje
 
 * [Kronika Miasta Poznania](http://www.wbc.poznan.pl/dlibra/publication?id=106644)
+
