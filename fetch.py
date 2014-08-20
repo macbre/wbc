@@ -162,7 +162,11 @@ class WBCFetch(object):
         tree = self.fetch_and_parse(self._index_url)
 
         name = tree.xpath('//h2')[0].text.strip()
-        copyrights = tree.xpath('//a[contains(@href, "671_1")]')[0].text
+        try:
+            copyrights = tree.xpath('//a[contains(@href, "671_1")]')[0].text
+        except IndexError:
+            copyrights = 'no info'
+
         items = tree.xpath('//div[@id="struct"]/ul//ul/li/a[@class="item-content"]')
 
         self._logger.debug("%s (%s)", name, copyrights)
