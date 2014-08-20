@@ -18,7 +18,7 @@ sudo pip install -r requirements.txt
 ## Pobieranie
 
 ```
-./fetch.py <ID publikacji>
+./fetch.py [--no-fetch] <ID publikacji>
 ```
 
 ## Struktura katalogów
@@ -35,4 +35,3 @@ sudo pip install -r requirements.txt
 ## Publikacje
 
 * [Kronika Miasta Poznania](http://www.wbc.poznan.pl/dlibra/publication?id=106644)
-
