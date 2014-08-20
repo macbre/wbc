@@ -1,19 +1,20 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""
-Skrypt importujący publikacje na licencji Fair Use w formacie DJVU z www.wbc.poznan.pl
+"""Imports Fair Use sources in DJVU  format from www.wbc.poznan.pl
 
-@see http://docs.python-guide.org/en/latest/scenarios/scrape/
+Usage:
+  fetch.py [--no-fetch] ID
+  fetch.py (-h | --help)
+  fetch.py --version
 
-Struktura katalogów:
+Arguments:
+  ID            Publication ID
 
- - publications/
-   - <ID publikacji>/
-     - index.json
-     - issues/
-       - <rocznik>
-         - <ID numeru>.txt
+Options:
+  -h --help     Show this screen.
+  --version     Show version.
+  --no-fetch    Don't fetch, generate index only.
 """
 
 import json
@@ -21,19 +22,25 @@ import logging
 import os
 import re
 import subprocess
-import sys
 import tempfile
 
+from docopt import docopt
 from lxml import html
 import requests
 
 logging.basicConfig(level=logging.DEBUG)
 
 
+class WBCError(Exception):
+    pass
+
+
 class WBCFetch(object):
-    def __init__(self, publication_id):
+    def __init__(self, publication_id, no_fetch=False):
         self.publication_id = publication_id
         self.index_url = "http://www.wbc.poznan.pl/dlibra/publication?id=%d&tab=1" % self.publication_id
+
+        self.no_fetch = no_fetch
 
         self.path = "publications/%d" % self.publication_id
 
@@ -47,7 +54,8 @@ class WBCFetch(object):
             "name": '',
             "copyrights": '',
             "years": [],
-            "issues": []
+            "issues": [],
+            "count": 0
         }
 
         # przygotuj strukturę katalogów
@@ -70,6 +78,10 @@ class WBCFetch(object):
 
     def run(self):
         r = self.session.get(self.index_url)
+
+        if r.status_code != 200:
+            raise WBCError("HTTP request failed!")
+
         tree = html.fromstring(r.text)
 
         name = tree.xpath('//h2')[0].text.strip()
@@ -111,6 +123,8 @@ class WBCFetch(object):
             # linki do <http://www.wbc.poznan.pl/dlibra/editions-content?id=129941>
             items = tree.xpath('//a[@class="contentTriggerStruct"]')
 
+            self.index['count'] += len(items)
+
             for item in reversed(items):
                 name = item.attrib.get('title', '').strip(' -')
                 url = item.attrib.get('href')
@@ -132,6 +146,10 @@ class WBCFetch(object):
                     "zip": zip,
                 })
 
+                # --no-fetch
+                if self.no_fetch is True:
+                    continue
+
                 # pobierz archiwum, rozpakuj i wygeneruj plik txt z treścią
                 tmp_dir = tempfile.mkdtemp(prefix="wbc")
                 cmd = ['./djvuzip2txt.sh', zip, tmp_dir]
@@ -150,15 +168,13 @@ class WBCFetch(object):
                     if proc.returncode != 0:
                         raise Exception("Command failed!")
 
-try:
-    publication_id = int(sys.argv[1])
-except:
-    raise Exception("Please provide a valid publication_id")
+if __name__ == '__main__':
+    arguments = docopt(__doc__, version='WBC v0.1')
 
-wbc = WBCFetch(publication_id)  # KMP
+    wbc = WBCFetch(publication_id=int(arguments['ID']), no_fetch=arguments['--no-fetch'])
 
-# zapisz indeks publikacji do pliku JSON
-wbc.run()
+    # zapisz indeks publikacji do pliku JSON
+    wbc.run()
 
-with open("%s/index.json" % wbc.get_path(), "w") as out:
-    json.dump(wbc.get_index(), out, indent=2, separators=(',', ': '), sort_keys=True)
+    with open("%s/index.json" % wbc.get_path(), "w") as out:
+        json.dump(wbc.get_index(), out, indent=2, separators=(',', ': '), sort_keys=True)
