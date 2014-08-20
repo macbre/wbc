@@ -239,10 +239,12 @@ class WBCFetch(object):
                 # @see https://docs.python.org/2/library/subprocess.html#subprocess.call
                 with open("%s/issues/%s/%d.txt" % (self.get_path(), year, issue_id), "wb") as output:
                     output.writelines([
-                        '# Fetched from %s' % djvu_url,
-                        '# Under Fair Use license',
-                        ''
+                        '# Fetched from %s\n' % djvu_url,
+                        '# Under Fair Use license\n',
+                        '\n'
                     ])
+
+                    output.flush()
 
                     self._logger.debug("Output: %s", output.name)
 
