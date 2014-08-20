@@ -32,10 +32,16 @@ logging.basicConfig(level=logging.DEBUG)
 
 
 class WBCError(Exception):
+    """
+    Custom exception
+    """
     pass
 
 
 class WBCFetch(object):
+    """
+    Fetch WBC publication and issues
+    """
     def __init__(self, publication_id, no_fetch=False):
         self.publication_id = publication_id
         self.index_url = "http://www.wbc.poznan.pl/dlibra/publication?id=%d&tab=1" % self.publication_id
@@ -58,31 +64,46 @@ class WBCFetch(object):
             "count": 0
         }
 
-        # przygotuj strukturę katalogów
+        # prepare directories
         self.make_dir("/issues")
 
     def get_path(self):
+        """
+        Get storage path
+        """
         return self.path
 
     def get_index(self):
+        """
+        Get index structure of the publication
+        """
         return self.index
 
     def get_publication_id(self):
+        """
+        Get publication ID
+        """
         return self.publication_id
 
     def make_dir(self, suffix):
+        """
+        os.makedirs wrapper
+        """
         try:
             os.makedirs(self.get_path() + "/" + suffix)
         except OSError:
             pass
 
     def run(self):
-        r = self.session.get(self.index_url)
+        """
+        Do the stuff ;)
+        """
+        resp = self.session.get(self.index_url)
 
-        if r.status_code != 200:
+        if resp.status_code != 200:
             raise WBCError("HTTP request failed!")
 
-        tree = html.fromstring(r.text)
+        tree = html.fromstring(resp.text)
 
         name = tree.xpath('//h2')[0].text.strip()
         copyrights = tree.xpath('//a[contains(@href, "671_1")]')[0].text
@@ -117,8 +138,8 @@ class WBCFetch(object):
             # przygotuj strukturę katalogów
             self.make_dir("/issues/" + year)
 
-            r = self.session.get(url)
-            tree = html.fromstring(r.text)
+            resp = self.session.get(url)
+            tree = html.fromstring(resp.text)
 
             # linki do <http://www.wbc.poznan.pl/dlibra/editions-content?id=129941>
             items = tree.xpath('//a[@class="contentTriggerStruct"]')
@@ -130,20 +151,20 @@ class WBCFetch(object):
                 url = item.attrib.get('href')
 
                 # pobierz ID pliku dla danego numeru
-                r = self.session.get(url)
-                issue_id = int(re.search('content_url=/Content/(\d+)/index.djvu', r.text).group(1))
+                resp = self.session.get(url)
+                issue_id = int(re.search('content_url=/Content/(\d+)/index.djvu', resp.text).group(1))
 
-                djvu = "http://www.wbc.poznan.pl/Content/%d/index.djvu" % issue_id
-                zip = "http://www.wbc.poznan.pl/Content/%d/zip/" % issue_id
+                djvu_url = "http://www.wbc.poznan.pl/Content/%d/index.djvu" % issue_id
+                zip_url = "http://www.wbc.poznan.pl/Content/%d/zip/" % issue_id
 
-                self.logger.debug("%s: <%s>", name, djvu)
+                self.logger.debug("%s: <%s>", name, djvu_url)
 
                 self.index['years'].append({
                     "year": year,
                     "name": name,
                     "id": issue_id,
-                    "djvu": djvu,
-                    "zip": zip,
+                    "djvu": djvu_url,
+                    "zip": zip_url,
                 })
 
                 # --no-fetch
@@ -157,24 +178,29 @@ class WBCFetch(object):
                 self.logger.debug("cmd: %s", cmd)
 
                 # @see https://docs.python.org/2/library/subprocess.html#subprocess.call
-                with open("%s/issues/%s/%d.txt" % (self.get_path(), year, issue_id), "wb") as f:
-                    self.logger.debug("Output: %s", f.name)
+                with open("%s/issues/%s/%d.txt" % (self.get_path(), year, issue_id), "wb") as output:
+                    self.logger.debug("Output: %s", output.name)
 
-                    proc = subprocess.Popen(cmd, stdout=f)
-                    proc.wait()
+                    process = subprocess.Popen(cmd, stdout=output)
+                    process.wait()
 
-                    f.flush()
+                    output.flush()
 
-                    if proc.returncode != 0:
+                    if process.returncode != 0:
                         raise Exception("Command failed!")
 
-if __name__ == '__main__':
-    arguments = docopt(__doc__, version='WBC v0.1')
 
-    wbc = WBCFetch(publication_id=int(arguments['ID']), no_fetch=arguments['--no-fetch'])
+def run(args):
+    """
+    Execute WBCFetch with provided arguments
+    """
+    wbc = WBCFetch(publication_id=int(args['ID']), no_fetch=args['--no-fetch'])
 
     # zapisz indeks publikacji do pliku JSON
     wbc.run()
 
     with open("%s/index.json" % wbc.get_path(), "w") as out:
         json.dump(wbc.get_index(), out, indent=2, separators=(',', ': '), sort_keys=True)
+
+if __name__ == '__main__':
+    run(docopt(__doc__, version='WBC v0.1'))
