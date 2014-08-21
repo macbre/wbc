@@ -1,0 +1,4102 @@
+{
+  "copyrights": "no info",
+  "count": 580,
+  "index": "http://www.wbc.poznan.pl/dlibra/publication?id=127192&tab=1",
+  "issues": [
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139885/index.djvu",
+      "id": 139885,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.11.05 Nr89",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139885/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139884/index.djvu",
+      "id": 139884,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.11.01 Nr88",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139884/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139883/index.djvu",
+      "id": 139883,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.10.29 Nr87",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139883/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139882/index.djvu",
+      "id": 139882,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.10.25 Nr86",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139882/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139881/index.djvu",
+      "id": 139881,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.10.22 Nr85",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139881/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139880/index.djvu",
+      "id": 139880,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.10.18 Nr84",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139880/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139879/index.djvu",
+      "id": 139879,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.10.15 Nr83",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139879/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139878/index.djvu",
+      "id": 139878,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.10.11 Nr82",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139878/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139877/index.djvu",
+      "id": 139877,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.10.08 Nr81",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139877/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139876/index.djvu",
+      "id": 139876,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.10.04 Nr80",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139876/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139875/index.djvu",
+      "id": 139875,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.10.01 Nr79",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139875/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139874/index.djvu",
+      "id": 139874,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.09.27 Nr78",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139874/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139873/index.djvu",
+      "id": 139873,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.09.24 Nr77",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139873/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139872/index.djvu",
+      "id": 139872,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.09.20 Nr76",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139872/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139871/index.djvu",
+      "id": 139871,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.09.17 Nr75",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139871/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139870/index.djvu",
+      "id": 139870,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.09.13 Nr74",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139870/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139869/index.djvu",
+      "id": 139869,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.09.10 Nr73",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139869/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139868/index.djvu",
+      "id": 139868,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.09.06 Nr72",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139868/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139867/index.djvu",
+      "id": 139867,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.09.03 Nr71",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139867/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139866/index.djvu",
+      "id": 139866,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.08.30 Nr70",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139866/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139865/index.djvu",
+      "id": 139865,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.08.27 Nr69",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139865/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139864/index.djvu",
+      "id": 139864,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.08.23 Nr68",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139864/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139863/index.djvu",
+      "id": 139863,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.08.20 Nr67",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139863/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139862/index.djvu",
+      "id": 139862,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.08.16 Nr66",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139862/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139861/index.djvu",
+      "id": 139861,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.08.13 Nr65",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139861/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139860/index.djvu",
+      "id": 139860,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.08.09 Nr64",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139860/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139859/index.djvu",
+      "id": 139859,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.08.06 Nr63",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139859/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139858/index.djvu",
+      "id": 139858,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.08.02 Nr62",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139858/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139857/index.djvu",
+      "id": 139857,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.07.30 Nr61",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139857/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139856/index.djvu",
+      "id": 139856,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.07.26 Nr60",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139856/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139855/index.djvu",
+      "id": 139855,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.07.23 Nr59",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139855/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139854/index.djvu",
+      "id": 139854,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.07.19 Nr58",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139854/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139853/index.djvu",
+      "id": 139853,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.07.16 Nr57",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139853/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139852/index.djvu",
+      "id": 139852,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.07.12 Nr56",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139852/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139851/index.djvu",
+      "id": 139851,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.07.09 Nr55",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139851/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139850/index.djvu",
+      "id": 139850,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.07.05 Nr54",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139850/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139849/index.djvu",
+      "id": 139849,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.07.02 Nr53",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139849/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139848/index.djvu",
+      "id": 139848,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.06.28 Nr52",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139848/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139847/index.djvu",
+      "id": 139847,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.06.21 Nr50",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139847/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139846/index.djvu",
+      "id": 139846,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.06.18 Nr49",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139846/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139845/index.djvu",
+      "id": 139845,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.06.14 Nr48",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139845/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139844/index.djvu",
+      "id": 139844,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.06.11 Nr47",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139844/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139843/index.djvu",
+      "id": 139843,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.06.07 Nr46",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139843/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139842/index.djvu",
+      "id": 139842,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.06.04 Nr45",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139842/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139841/index.djvu",
+      "id": 139841,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.05.31 Nr44",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139841/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139840/index.djvu",
+      "id": 139840,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.05.28 Nr43",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139840/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139839/index.djvu",
+      "id": 139839,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.05.24 Nr42",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139839/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139838/index.djvu",
+      "id": 139838,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.05.21 Nr41",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139838/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139837/index.djvu",
+      "id": 139837,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.05.17 Nr40",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139837/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139836/index.djvu",
+      "id": 139836,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.05.14 Nr39",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139836/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139835/index.djvu",
+      "id": 139835,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.05.10 Nr38",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139835/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139834/index.djvu",
+      "id": 139834,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.05.07 Nr37",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139834/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139803/index.djvu",
+      "id": 139803,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.05.03 Nr36",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139803/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139788/index.djvu",
+      "id": 139788,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.04.30 Nr35",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139788/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139787/index.djvu",
+      "id": 139787,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.04.26 Nr34",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139787/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139786/index.djvu",
+      "id": 139786,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.04.23 Nr33",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139786/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139833/index.djvu",
+      "id": 139833,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.04.19 Nr32",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139833/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139785/index.djvu",
+      "id": 139785,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.04.16 Nr31",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139785/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139784/index.djvu",
+      "id": 139784,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.04.12 Nr30",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139784/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139783/index.djvu",
+      "id": 139783,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.04.09 Nr29",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139783/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139782/index.djvu",
+      "id": 139782,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.04.05 Nr28",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139782/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139781/index.djvu",
+      "id": 139781,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.04.02 Nr27",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139781/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139780/index.djvu",
+      "id": 139780,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.03.29 Nr26",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139780/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139779/index.djvu",
+      "id": 139779,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.03.26 Nr25",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139779/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139778/index.djvu",
+      "id": 139778,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.03.22 Nr24",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139778/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139777/index.djvu",
+      "id": 139777,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.03.19 Nr23",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139777/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139776/index.djvu",
+      "id": 139776,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.03.15 Nr22",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139776/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139775/index.djvu",
+      "id": 139775,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.03.12 Nr21",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139775/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139774/index.djvu",
+      "id": 139774,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.03.08 Nr20",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139774/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139773/index.djvu",
+      "id": 139773,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.03.05 Nr19",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139773/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139772/index.djvu",
+      "id": 139772,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.03.01 Nr18",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139772/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139771/index.djvu",
+      "id": 139771,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.02.26 Nr17",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139771/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139770/index.djvu",
+      "id": 139770,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.02.22 Nr16",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139770/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139769/index.djvu",
+      "id": 139769,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.02.19 Nr15",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139769/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139768/index.djvu",
+      "id": 139768,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.02.15 Nr14",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139768/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139767/index.djvu",
+      "id": 139767,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.02.12 Nr13",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139767/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139766/index.djvu",
+      "id": 139766,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.02.08 Nr12",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139766/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139765/index.djvu",
+      "id": 139765,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.02.05 Nr11",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139765/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139764/index.djvu",
+      "id": 139764,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.02.01 Nr10",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139764/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139763/index.djvu",
+      "id": 139763,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.01.29 Nr9",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139763/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139762/index.djvu",
+      "id": 139762,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.01.25 Nr8",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139762/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139761/index.djvu",
+      "id": 139761,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.01.22 Nr7",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139761/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139760/index.djvu",
+      "id": 139760,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.01.18 Nr6",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139760/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139759/index.djvu",
+      "id": 139759,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.01.15 Nr5",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139759/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139758/index.djvu",
+      "id": 139758,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.01.11 Nr4",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139758/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139757/index.djvu",
+      "id": 139757,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.01.08 Nr3",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139757/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139756/index.djvu",
+      "id": 139756,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.01.04 Nr2",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139756/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139755/index.djvu",
+      "id": 139755,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1806.01.01 Nr1",
+      "year": "1806",
+      "zip": "http://www.wbc.poznan.pl/Content/139755/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139458/index.djvu",
+      "id": 139458,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.12.28 Nr104",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139458/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139457/index.djvu",
+      "id": 139457,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.12.25 Nr103",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139457/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139456/index.djvu",
+      "id": 139456,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.12.21 Nr102",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139456/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139455/index.djvu",
+      "id": 139455,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.12.18 Nr101",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139455/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139454/index.djvu",
+      "id": 139454,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.12.14 Nr100",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139454/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139453/index.djvu",
+      "id": 139453,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.12.11 Nr99",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139453/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139452/index.djvu",
+      "id": 139452,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.12.07 Nr98",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139452/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139451/index.djvu",
+      "id": 139451,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.12.04 Nr97",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139451/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139450/index.djvu",
+      "id": 139450,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.11.30 Nr96",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139450/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139449/index.djvu",
+      "id": 139449,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.11.27 Nr95",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139449/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139448/index.djvu",
+      "id": 139448,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.11.23 Nr94",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139448/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139447/index.djvu",
+      "id": 139447,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.11.20 Nr93",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139447/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139446/index.djvu",
+      "id": 139446,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.11.16 Nr92",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139446/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139445/index.djvu",
+      "id": 139445,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.11.13 Nr91",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139445/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139444/index.djvu",
+      "id": 139444,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.11.06 Nr89",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139444/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139443/index.djvu",
+      "id": 139443,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.11.02 Nr88",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139443/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139441/index.djvu",
+      "id": 139441,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.10.30 Nr87",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139441/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139440/index.djvu",
+      "id": 139440,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.10.26 Nr86",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139440/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139439/index.djvu",
+      "id": 139439,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.10.23 Nr85",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139439/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139438/index.djvu",
+      "id": 139438,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.10.19 Nr84",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139438/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139437/index.djvu",
+      "id": 139437,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.10.16 Nr83",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139437/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139436/index.djvu",
+      "id": 139436,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.10.12 Nr82",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139436/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139435/index.djvu",
+      "id": 139435,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.10.09 Nr81",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139435/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139434/index.djvu",
+      "id": 139434,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.10.05 Nr80",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139434/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139433/index.djvu",
+      "id": 139433,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.10.02 Nr79",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139433/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139432/index.djvu",
+      "id": 139432,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.09.28 Nr78",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139432/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139431/index.djvu",
+      "id": 139431,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.09.25 Nr77",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139431/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139430/index.djvu",
+      "id": 139430,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.09.21 Nr76",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139430/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139429/index.djvu",
+      "id": 139429,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.09.18 Nr75",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139429/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139428/index.djvu",
+      "id": 139428,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.09.14 Nr74",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139428/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139427/index.djvu",
+      "id": 139427,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.09.11 Nr73",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139427/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139426/index.djvu",
+      "id": 139426,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.09.07 Nr72",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139426/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139425/index.djvu",
+      "id": 139425,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.09.04 Nr71",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139425/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139424/index.djvu",
+      "id": 139424,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.08.31 Nr70",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139424/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139423/index.djvu",
+      "id": 139423,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.08.28 Nr69",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139423/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139422/index.djvu",
+      "id": 139422,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.08.24 Nr68",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139422/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139421/index.djvu",
+      "id": 139421,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.08.21 Nr67",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139421/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139420/index.djvu",
+      "id": 139420,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.08.17 Nr66",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139420/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139419/index.djvu",
+      "id": 139419,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.08.14 Nr65",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139419/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139418/index.djvu",
+      "id": 139418,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.08.10 Nr64",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139418/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139417/index.djvu",
+      "id": 139417,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.08.07 Nr63",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139417/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139416/index.djvu",
+      "id": 139416,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.08.03 Nr62",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139416/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139415/index.djvu",
+      "id": 139415,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.07.31 Nr61",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139415/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139414/index.djvu",
+      "id": 139414,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.07.27 Nr60",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139414/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139413/index.djvu",
+      "id": 139413,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.07.24 Nr59",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139413/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139412/index.djvu",
+      "id": 139412,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.07.20 Nr58",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139412/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139411/index.djvu",
+      "id": 139411,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.07.17 Nr57",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139411/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139410/index.djvu",
+      "id": 139410,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.07.13 Nr56",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139410/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139409/index.djvu",
+      "id": 139409,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.07.10 Nr55",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139409/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139408/index.djvu",
+      "id": 139408,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.07.06 Nr54",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139408/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139407/index.djvu",
+      "id": 139407,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.07.03 Nr53",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139407/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139406/index.djvu",
+      "id": 139406,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.06.29 Nr52",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139406/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139405/index.djvu",
+      "id": 139405,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.06.26 Nr51",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139405/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139404/index.djvu",
+      "id": 139404,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.06.22 Nr50",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139404/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139403/index.djvu",
+      "id": 139403,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.06.19 Nr49",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139403/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139402/index.djvu",
+      "id": 139402,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.06.15 Nr48",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139402/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139401/index.djvu",
+      "id": 139401,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.06.12 Nr47",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139401/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139400/index.djvu",
+      "id": 139400,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.06.08 Nr46",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139400/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139399/index.djvu",
+      "id": 139399,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.06.05 Nr45",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139399/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139398/index.djvu",
+      "id": 139398,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.06.01 Nr44",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139398/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139397/index.djvu",
+      "id": 139397,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.05.29 Nr43",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139397/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139396/index.djvu",
+      "id": 139396,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.05.25 Nr42",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139396/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139395/index.djvu",
+      "id": 139395,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.05.22 Nr41",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139395/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139394/index.djvu",
+      "id": 139394,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.05.18 Nr40",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139394/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139393/index.djvu",
+      "id": 139393,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.05.15 Nr39",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139393/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139392/index.djvu",
+      "id": 139392,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.05.12 Nr 38",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139392/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139391/index.djvu",
+      "id": 139391,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.05.08 Nr37",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139391/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139390/index.djvu",
+      "id": 139390,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.05.04 Nr36",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139390/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139389/index.djvu",
+      "id": 139389,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.05.02 Nr35",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139389/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139320/index.djvu",
+      "id": 139320,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.04.27 Nr34",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139320/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139319/index.djvu",
+      "id": 139319,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.04.24 Nr33",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139319/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139318/index.djvu",
+      "id": 139318,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.04.20 Nr32",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139318/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139317/index.djvu",
+      "id": 139317,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.04.17 Nr31",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139317/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139316/index.djvu",
+      "id": 139316,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.04.13 Nr30",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139316/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139315/index.djvu",
+      "id": 139315,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.04.10 Nr29",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139315/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139314/index.djvu",
+      "id": 139314,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.04.06 Nr28",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139314/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139313/index.djvu",
+      "id": 139313,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.04.03 Nr27",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139313/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139312/index.djvu",
+      "id": 139312,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.03.30 Nr26",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139312/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139311/index.djvu",
+      "id": 139311,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.03.27 Nr25",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139311/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139310/index.djvu",
+      "id": 139310,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.03.23 Nr24",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139310/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139309/index.djvu",
+      "id": 139309,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.03.20 Nr23",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139309/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139308/index.djvu",
+      "id": 139308,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.03.16 Nr22",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139308/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139307/index.djvu",
+      "id": 139307,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.03.13 Nr21",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139307/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139306/index.djvu",
+      "id": 139306,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.03.09 Nr20",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139306/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139305/index.djvu",
+      "id": 139305,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.03.06 Nr19",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139305/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139304/index.djvu",
+      "id": 139304,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.03.02 Nr18",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139304/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139302/index.djvu",
+      "id": 139302,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.02.27 Nr17",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139302/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139301/index.djvu",
+      "id": 139301,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.02.23 Nr16",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139301/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139300/index.djvu",
+      "id": 139300,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.02.20 Nr15",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139300/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139299/index.djvu",
+      "id": 139299,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.02.16 Nr14",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139299/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139298/index.djvu",
+      "id": 139298,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.02.13 Nr13",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139298/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139297/index.djvu",
+      "id": 139297,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.02.09 Nr12",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139297/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139296/index.djvu",
+      "id": 139296,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.02.06 Nr11",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139296/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139295/index.djvu",
+      "id": 139295,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.02.02 Nr10",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139295/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139294/index.djvu",
+      "id": 139294,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.01.30 Nr9",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139294/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139293/index.djvu",
+      "id": 139293,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.01.26 Nr8",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139293/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139292/index.djvu",
+      "id": 139292,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.01.23 Nr7",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139292/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139291/index.djvu",
+      "id": 139291,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.01.19 Nr6",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139291/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139290/index.djvu",
+      "id": 139290,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.01.16 Nr5",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139290/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139289/index.djvu",
+      "id": 139289,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.01.12 Nr4",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139289/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139288/index.djvu",
+      "id": 139288,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.01.09 Nr3",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139288/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139287/index.djvu",
+      "id": 139287,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.01.05 Nr2",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139287/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139286/index.djvu",
+      "id": 139286,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1805.01.02 Nr1",
+      "year": "1805",
+      "zip": "http://www.wbc.poznan.pl/Content/139286/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139285/index.djvu",
+      "id": 139285,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1804.11.24 Nr94",
+      "year": "1804",
+      "zip": "http://www.wbc.poznan.pl/Content/139285/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139284/index.djvu",
+      "id": 139284,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1804.11.21 Nr93",
+      "year": "1804",
+      "zip": "http://www.wbc.poznan.pl/Content/139284/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139283/index.djvu",
+      "id": 139283,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1804.11.17 Nr92",
+      "year": "1804",
+      "zip": "http://www.wbc.poznan.pl/Content/139283/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139282/index.djvu",
+      "id": 139282,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1804.11.14 Nr91",
+      "year": "1804",
+      "zip": "http://www.wbc.poznan.pl/Content/139282/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139281/index.djvu",
+      "id": 139281,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1804.11.03 Nr88",
+      "year": "1804",
+      "zip": "http://www.wbc.poznan.pl/Content/139281/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139280/index.djvu",
+      "id": 139280,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1804.10.20 Nr84",
+      "year": "1804",
+      "zip": "http://www.wbc.poznan.pl/Content/139280/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139279/index.djvu",
+      "id": 139279,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1804.10.17 Nr83",
+      "year": "1804",
+      "zip": "http://www.wbc.poznan.pl/Content/139279/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139278/index.djvu",
+      "id": 139278,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1804.08.25 Nr68",
+      "year": "1804",
+      "zip": "http://www.wbc.poznan.pl/Content/139278/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139277/index.djvu",
+      "id": 139277,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1804.05.02 Nr35",
+      "year": "1804",
+      "zip": "http://www.wbc.poznan.pl/Content/139277/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139276/index.djvu",
+      "id": 139276,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1804.04.28 Nr34",
+      "year": "1804",
+      "zip": "http://www.wbc.poznan.pl/Content/139276/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139275/index.djvu",
+      "id": 139275,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1804.03.28 Nr25",
+      "year": "1804",
+      "zip": "http://www.wbc.poznan.pl/Content/139275/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139274/index.djvu",
+      "id": 139274,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1803.12.31 Nr105",
+      "year": "1803",
+      "zip": "http://www.wbc.poznan.pl/Content/139274/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139273/index.djvu",
+      "id": 139273,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1803.12.28 Nr104",
+      "year": "1803",
+      "zip": "http://www.wbc.poznan.pl/Content/139273/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139272/index.djvu",
+      "id": 139272,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1803.12.24 Nr103",
+      "year": "1803",
+      "zip": "http://www.wbc.poznan.pl/Content/139272/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139271/index.djvu",
+      "id": 139271,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1803.10.15 Nr83",
+      "year": "1803",
+      "zip": "http://www.wbc.poznan.pl/Content/139271/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139270/index.djvu",
+      "id": 139270,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1803.08.24 Nr68",
+      "year": "1803",
+      "zip": "http://www.wbc.poznan.pl/Content/139270/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139269/index.djvu",
+      "id": 139269,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1803.08.17 Nr66",
+      "year": "1803",
+      "zip": "http://www.wbc.poznan.pl/Content/139269/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139268/index.djvu",
+      "id": 139268,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1803.08.13 Nr65",
+      "year": "1803",
+      "zip": "http://www.wbc.poznan.pl/Content/139268/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139267/index.djvu",
+      "id": 139267,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1803.07.30 Nr61",
+      "year": "1803",
+      "zip": "http://www.wbc.poznan.pl/Content/139267/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/139266/index.djvu",
+      "id": 139266,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1803.07.27 Nr60",
+      "year": "1803",
+      "zip": "http://www.wbc.poznan.pl/Content/139266/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138147/index.djvu",
+      "id": 138147,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.12.29 Nr104",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138147/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138146/index.djvu",
+      "id": 138146,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.12.25 Nr103",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138146/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138145/index.djvu",
+      "id": 138145,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.12.22 Nr102",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138145/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138144/index.djvu",
+      "id": 138144,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.12.18 Nr101",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138144/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138143/index.djvu",
+      "id": 138143,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.12.15 Nr100",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138143/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138123/index.djvu",
+      "id": 138123,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.12.12 Nr99",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138123/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138122/index.djvu",
+      "id": 138122,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.12.08 Nr98",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138122/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138121/index.djvu",
+      "id": 138121,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.12.04 Nr97",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138121/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138120/index.djvu",
+      "id": 138120,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.12.01 Nr96",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138120/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138119/index.djvu",
+      "id": 138119,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.11.27 Nr95",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138119/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138118/index.djvu",
+      "id": 138118,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.11.24 Nr94",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138118/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138117/index.djvu",
+      "id": 138117,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.11.20 Nr93",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138117/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138116/index.djvu",
+      "id": 138116,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.11.17 Nr92",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138116/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138115/index.djvu",
+      "id": 138115,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.11.13 Nr91",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138115/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138114/index.djvu",
+      "id": 138114,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.11.10 Nr90",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138114/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138113/index.djvu",
+      "id": 138113,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.11.06 Nr89",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138113/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138112/index.djvu",
+      "id": 138112,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.11.03 Nr88",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138112/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138111/index.djvu",
+      "id": 138111,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.10.30 Nr87",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138111/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138110/index.djvu",
+      "id": 138110,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.10.27 Nr86",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138110/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138109/index.djvu",
+      "id": 138109,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.10.23 Nr85",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138109/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138108/index.djvu",
+      "id": 138108,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.10.20 Nr84",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138108/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138107/index.djvu",
+      "id": 138107,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.10.16 Nr83",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138107/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138106/index.djvu",
+      "id": 138106,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.10.13 Nr82",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138106/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138105/index.djvu",
+      "id": 138105,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.10.09 Nr81",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138105/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138104/index.djvu",
+      "id": 138104,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.10.06 Nr80",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138104/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138103/index.djvu",
+      "id": 138103,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.10.02 nr79",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138103/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138102/index.djvu",
+      "id": 138102,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.09.29 Nr78",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138102/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138101/index.djvu",
+      "id": 138101,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.09.25 Nr77",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138101/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138100/index.djvu",
+      "id": 138100,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.09.22 Nr76",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138100/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138099/index.djvu",
+      "id": 138099,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.09.18 Nr75",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138099/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138098/index.djvu",
+      "id": 138098,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.09.15 Nr74",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138098/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138097/index.djvu",
+      "id": 138097,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.09.11 Nr73",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138097/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138096/index.djvu",
+      "id": 138096,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.09.08 Nr72",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138096/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138095/index.djvu",
+      "id": 138095,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.09.04 Nr71",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138095/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138094/index.djvu",
+      "id": 138094,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.09.01 Nr70",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138094/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138093/index.djvu",
+      "id": 138093,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.08.28 Nr69",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138093/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138092/index.djvu",
+      "id": 138092,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.08.25 Nr68",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138092/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138091/index.djvu",
+      "id": 138091,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.08.21 Nr67",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138091/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138090/index.djvu",
+      "id": 138090,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.08.18 Nr66",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138090/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138089/index.djvu",
+      "id": 138089,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.08.14 Nr65",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138089/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138088/index.djvu",
+      "id": 138088,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.08.11 Nr64",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138088/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138087/index.djvu",
+      "id": 138087,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.08.07 Nr63",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138087/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138086/index.djvu",
+      "id": 138086,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.08.04 Nr62",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138086/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138085/index.djvu",
+      "id": 138085,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.07.31 Nr61",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138085/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138084/index.djvu",
+      "id": 138084,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.07.28 Nr60",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138084/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138083/index.djvu",
+      "id": 138083,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.07.24 Nr59",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138083/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138082/index.djvu",
+      "id": 138082,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.07.21 Nr58",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138082/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138081/index.djvu",
+      "id": 138081,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.07.17 Nr57",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138081/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138080/index.djvu",
+      "id": 138080,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.07.14 Nr56",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138080/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138079/index.djvu",
+      "id": 138079,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.07.10 Nr55",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138079/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138078/index.djvu",
+      "id": 138078,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.07.07 Nr54",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138078/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138077/index.djvu",
+      "id": 138077,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.07.03 Nr53",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138077/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138076/index.djvu",
+      "id": 138076,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.06.30 Nr52",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138076/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138075/index.djvu",
+      "id": 138075,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.06.26 Nr51",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138075/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138074/index.djvu",
+      "id": 138074,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.06.23 Nr50",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138074/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138073/index.djvu",
+      "id": 138073,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.06.19 Nr49",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138073/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138072/index.djvu",
+      "id": 138072,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.06.16 Nr48",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138072/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138071/index.djvu",
+      "id": 138071,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.06.12 Nr47",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138071/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138070/index.djvu",
+      "id": 138070,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.06.09 Nr46",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138070/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138069/index.djvu",
+      "id": 138069,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.06.05 Nr45",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138069/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138068/index.djvu",
+      "id": 138068,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.06.02 Nr44",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138068/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138067/index.djvu",
+      "id": 138067,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.05.29 Nr43",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138067/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138066/index.djvu",
+      "id": 138066,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.05.26 Nr42",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138066/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138065/index.djvu",
+      "id": 138065,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.05.22 Nr41",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138065/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138064/index.djvu",
+      "id": 138064,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.05.19 Nr40",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138064/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138063/index.djvu",
+      "id": 138063,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.05.15 Nr39",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138063/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138062/index.djvu",
+      "id": 138062,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.05.12 Nr38",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138062/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138061/index.djvu",
+      "id": 138061,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.05.08 Nr37",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138061/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138060/index.djvu",
+      "id": 138060,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.05.05 Nr36",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138060/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138059/index.djvu",
+      "id": 138059,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.05.01 Nr35",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/138059/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137979/index.djvu",
+      "id": 137979,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.04.28 Nr34",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137979/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137978/index.djvu",
+      "id": 137978,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.04.24 Nr33",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137978/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137977/index.djvu",
+      "id": 137977,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.04.21 Nr32",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137977/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137976/index.djvu",
+      "id": 137976,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.04.17 Nr31",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137976/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137975/index.djvu",
+      "id": 137975,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.04.14 Nr30",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137975/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137974/index.djvu",
+      "id": 137974,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.04.10 Nr29",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137974/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137973/index.djvu",
+      "id": 137973,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.04.07 Nr28",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137973/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137972/index.djvu",
+      "id": 137972,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.04.03 Nr27",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137972/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137971/index.djvu",
+      "id": 137971,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.03.31 Nr26",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137971/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137970/index.djvu",
+      "id": 137970,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.03.27 Nr25",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137970/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137969/index.djvu",
+      "id": 137969,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.03.24 Nr24",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137969/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137968/index.djvu",
+      "id": 137968,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.03.20 Nr23",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137968/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137967/index.djvu",
+      "id": 137967,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.03.17 Nr22",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137967/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137966/index.djvu",
+      "id": 137966,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.03.13 Nr21",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137966/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137965/index.djvu",
+      "id": 137965,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.03.10 Nr20",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137965/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137964/index.djvu",
+      "id": 137964,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.03.06 Nr19",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137964/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137963/index.djvu",
+      "id": 137963,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.03.03 Nr18",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137963/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137962/index.djvu",
+      "id": 137962,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.02.27 Nr17",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137962/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137961/index.djvu",
+      "id": 137961,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.02.24 Nr16",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137961/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137960/index.djvu",
+      "id": 137960,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.02.20 Nr15",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137960/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137959/index.djvu",
+      "id": 137959,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.02.17 Nr14",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137959/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137958/index.djvu",
+      "id": 137958,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.02.13 Nr13",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137958/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137957/index.djvu",
+      "id": 137957,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.02.10 Nr12",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137957/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137956/index.djvu",
+      "id": 137956,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.02.06 Nr11",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137956/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137955/index.djvu",
+      "id": 137955,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.02.03 Nr10",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137955/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137954/index.djvu",
+      "id": 137954,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.01.30 Nr9",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137954/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137953/index.djvu",
+      "id": 137953,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.01.27 Nr8",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137953/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137952/index.djvu",
+      "id": 137952,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.01.23 Nr7",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137952/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137951/index.djvu",
+      "id": 137951,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.01.20 Nr6",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137951/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137950/index.djvu",
+      "id": 137950,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.01.16 Nr5",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137950/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137949/index.djvu",
+      "id": 137949,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.01.13 Nr4",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137949/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137948/index.djvu",
+      "id": 137948,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.01.09 Nr3",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137948/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137947/index.djvu",
+      "id": 137947,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.01.06 Nr2",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137947/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137946/index.djvu",
+      "id": 137946,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1802.01.02 Nr1",
+      "year": "1802",
+      "zip": "http://www.wbc.poznan.pl/Content/137946/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137809/index.djvu",
+      "id": 137809,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.12.07 Nr98",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137809/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137808/index.djvu",
+      "id": 137808,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.11.27 Nr95",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137808/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137807/index.djvu",
+      "id": 137807,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.11.23 Nr94",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137807/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137806/index.djvu",
+      "id": 137806,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.11.16 Nr92",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137806/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137803/index.djvu",
+      "id": 137803,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.11.13 Nr91",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137803/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137802/index.djvu",
+      "id": 137802,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.11.09 Nr90",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137802/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137801/index.djvu",
+      "id": 137801,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.11.06 Nr89",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137801/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137800/index.djvu",
+      "id": 137800,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.11.02 Nr88",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137800/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137799/index.djvu",
+      "id": 137799,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.10.30 Nr87",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137799/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137798/index.djvu",
+      "id": 137798,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.10.26 Nr86",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137798/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137797/index.djvu",
+      "id": 137797,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.10.23 Nr85",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137797/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137796/index.djvu",
+      "id": 137796,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.10.19 Nr84",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137796/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137795/index.djvu",
+      "id": 137795,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.10.12 Nr82",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137795/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137794/index.djvu",
+      "id": 137794,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.10.09 Nr81",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137794/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137793/index.djvu",
+      "id": 137793,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.10.05 Nr80",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137793/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137792/index.djvu",
+      "id": 137792,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.10.02 Nr79",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137792/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137805/index.djvu",
+      "id": 137805,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.09.28 Nr78",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137805/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137791/index.djvu",
+      "id": 137791,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.09.11 Nr73",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137791/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137804/index.djvu",
+      "id": 137804,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.07.31 Nr61",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137804/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137790/index.djvu",
+      "id": 137790,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.07.27 Nr60",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137790/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137789/index.djvu",
+      "id": 137789,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.07.24 Nr59",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137789/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137788/index.djvu",
+      "id": 137788,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.07.20 Nr58",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137788/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137787/index.djvu",
+      "id": 137787,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.07.17 Nr57",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137787/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137786/index.djvu",
+      "id": 137786,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.07.13 Nr56",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137786/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137785/index.djvu",
+      "id": 137785,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.07.10 Nr55",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137785/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137784/index.djvu",
+      "id": 137784,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.07.06 Nr54",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137784/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137783/index.djvu",
+      "id": 137783,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.07.03 Nr53",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137783/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137782/index.djvu",
+      "id": 137782,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.06.29 Nr52",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137782/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137781/index.djvu",
+      "id": 137781,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.06.22 Nr50",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137781/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137780/index.djvu",
+      "id": 137780,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.06.19 Nr49",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137780/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137779/index.djvu",
+      "id": 137779,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.06.15 Nr48",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137779/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137778/index.djvu",
+      "id": 137778,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.06.12 Nr47",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137778/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137777/index.djvu",
+      "id": 137777,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.06.08 Nr46",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137777/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137776/index.djvu",
+      "id": 137776,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.05.18 Nr40",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137776/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137775/index.djvu",
+      "id": 137775,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.05.15 Nr39",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137775/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137774/index.djvu",
+      "id": 137774,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.05.11 Nr38",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137774/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137773/index.djvu",
+      "id": 137773,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.05.08 Nr37",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137773/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137772/index.djvu",
+      "id": 137772,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.05.01 Nr35",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137772/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137771/index.djvu",
+      "id": 137771,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.04.27 Nr34",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137771/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137770/index.djvu",
+      "id": 137770,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.04.24 Nr33",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137770/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137769/index.djvu",
+      "id": 137769,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.04.17 Nr31",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137769/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137768/index.djvu",
+      "id": 137768,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.04.13 Nr30",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137768/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137767/index.djvu",
+      "id": 137767,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.04.10 Nr29",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137767/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137766/index.djvu",
+      "id": 137766,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.03.30 Nr26",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137766/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137765/index.djvu",
+      "id": 137765,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.03.27 Nr25",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137765/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137764/index.djvu",
+      "id": 137764,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.03.20 Nr23",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137764/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137763/index.djvu",
+      "id": 137763,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.03.13 Nr21",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137763/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137762/index.djvu",
+      "id": 137762,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.03.09 Nr20",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137762/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137761/index.djvu",
+      "id": 137761,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.03.06 Nr19",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137761/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137760/index.djvu",
+      "id": 137760,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.03.02 Nr18",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137760/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137759/index.djvu",
+      "id": 137759,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.02.27 Nr17",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137759/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137758/index.djvu",
+      "id": 137758,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.02.16 Nr14",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137758/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137757/index.djvu",
+      "id": 137757,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.02.09 Nr12",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137757/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137756/index.djvu",
+      "id": 137756,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.02.06 Nr11",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137756/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137755/index.djvu",
+      "id": 137755,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.02.02 Nr10",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137755/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137754/index.djvu",
+      "id": 137754,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.01.30 Nr9",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137754/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137753/index.djvu",
+      "id": 137753,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.01.26 Nr8",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137753/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137752/index.djvu",
+      "id": 137752,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.01.23 Nr7",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137752/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137751/index.djvu",
+      "id": 137751,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.01.19 Nr6",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137751/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137750/index.djvu",
+      "id": 137750,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.01.16 Nr5",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137750/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137914/index.djvu",
+      "id": 137914,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.01.12 Nr4",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137914/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137913/index.djvu",
+      "id": 137913,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.01.09 Nr3",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137913/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137749/index.djvu",
+      "id": 137749,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.01.05 Nr2",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137749/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137748/index.djvu",
+      "id": 137748,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1799.01.02 Nr1",
+      "year": "1799",
+      "zip": "http://www.wbc.poznan.pl/Content/137748/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137034/index.djvu",
+      "id": 137034,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.12.29 Nr104",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137034/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137033/index.djvu",
+      "id": 137033,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.12.26 Nr103",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137033/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137032/index.djvu",
+      "id": 137032,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.12.22 Nr102",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137032/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137031/index.djvu",
+      "id": 137031,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.12.19 Nr101",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137031/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137030/index.djvu",
+      "id": 137030,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.12.15 Nr100",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137030/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137029/index.djvu",
+      "id": 137029,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.12.12 Nr99",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137029/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137028/index.djvu",
+      "id": 137028,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.12.08 Nr98",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137028/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137027/index.djvu",
+      "id": 137027,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.12.01 Nr96",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137027/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137026/index.djvu",
+      "id": 137026,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.11.28 Nr95",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137026/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137025/index.djvu",
+      "id": 137025,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.11.24 Nr94",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137025/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137024/index.djvu",
+      "id": 137024,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.11.21 Nr93",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137024/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137023/index.djvu",
+      "id": 137023,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.11.17 Nr92",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137023/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137022/index.djvu",
+      "id": 137022,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.11.14 Nr91",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137022/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137021/index.djvu",
+      "id": 137021,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.11.10 Nr90",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137021/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137020/index.djvu",
+      "id": 137020,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.11.07 Nr89",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137020/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137019/index.djvu",
+      "id": 137019,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.11.03 Nr88",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137019/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137018/index.djvu",
+      "id": 137018,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.10.31 Nr87",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137018/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137017/index.djvu",
+      "id": 137017,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.10.27 Nr86",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137017/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137016/index.djvu",
+      "id": 137016,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.10.24 Nr85",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137016/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137015/index.djvu",
+      "id": 137015,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.10.20 Nr84",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137015/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137014/index.djvu",
+      "id": 137014,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.10.17 Nr83",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137014/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137013/index.djvu",
+      "id": 137013,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.10.13 Nr82",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137013/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137012/index.djvu",
+      "id": 137012,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.10.10 Nr81",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137012/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137011/index.djvu",
+      "id": 137011,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.10.06 Nr80",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137011/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137010/index.djvu",
+      "id": 137010,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.10.03 Nr79",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137010/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137009/index.djvu",
+      "id": 137009,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.09.29 Nr78",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137009/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137008/index.djvu",
+      "id": 137008,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.09.26 Nr77",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137008/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137007/index.djvu",
+      "id": 137007,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.09.22 Nr76",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137007/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137006/index.djvu",
+      "id": 137006,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.09.19 Nr75",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137006/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137005/index.djvu",
+      "id": 137005,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.09.15 Nr74",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137005/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137004/index.djvu",
+      "id": 137004,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.09.12 Nr73",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137004/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137003/index.djvu",
+      "id": 137003,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.09.08 Nr72",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137003/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137002/index.djvu",
+      "id": 137002,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.09.05 Nr71",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137002/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137001/index.djvu",
+      "id": 137001,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.09.01 Nr70",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137001/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/137000/index.djvu",
+      "id": 137000,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.08.29 Nr69",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/137000/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136999/index.djvu",
+      "id": 136999,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.08.25 Nr68",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136999/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136998/index.djvu",
+      "id": 136998,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.08.22 Nr67",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136998/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136997/index.djvu",
+      "id": 136997,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.08.18 Nr66",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136997/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136996/index.djvu",
+      "id": 136996,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.08.15 Nr65",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136996/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136995/index.djvu",
+      "id": 136995,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.08.11 Nr64",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136995/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136994/index.djvu",
+      "id": 136994,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.08.08 Nr63",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136994/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136993/index.djvu",
+      "id": 136993,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.08.04 Nr62",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136993/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136992/index.djvu",
+      "id": 136992,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.08.01 Nr61",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136992/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136671/index.djvu",
+      "id": 136671,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.07.28 Nr60",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136671/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136670/index.djvu",
+      "id": 136670,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.07.25 Nr59",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136670/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136669/index.djvu",
+      "id": 136669,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.07.21 Nr58",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136669/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136668/index.djvu",
+      "id": 136668,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.07.18 Nr57",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136668/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136667/index.djvu",
+      "id": 136667,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.07.14 Nr56",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136667/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136666/index.djvu",
+      "id": 136666,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.07.11 Nr55",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136666/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136665/index.djvu",
+      "id": 136665,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.07.07 Nr54",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136665/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136664/index.djvu",
+      "id": 136664,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.07.04 Nr53",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136664/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136663/index.djvu",
+      "id": 136663,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.06.30 Nr52",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136663/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136662/index.djvu",
+      "id": 136662,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.06.27 Nr51",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136662/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136661/index.djvu",
+      "id": 136661,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.06.23 Nr50",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136661/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136660/index.djvu",
+      "id": 136660,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.06.20 Nr49",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136660/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136659/index.djvu",
+      "id": 136659,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.06.16 Nr48",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136659/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136658/index.djvu",
+      "id": 136658,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.06.13 Nr47",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136658/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136657/index.djvu",
+      "id": 136657,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.06.09 Nr46",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136657/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136656/index.djvu",
+      "id": 136656,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.06.06 Nr45",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136656/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136655/index.djvu",
+      "id": 136655,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.06.02 Nr44",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136655/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136654/index.djvu",
+      "id": 136654,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.05.30 Nr43",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136654/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136653/index.djvu",
+      "id": 136653,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.05.26 Nr42",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136653/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136652/index.djvu",
+      "id": 136652,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.05.23 Nr41",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136652/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136651/index.djvu",
+      "id": 136651,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.05.19 Nr40",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136651/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136650/index.djvu",
+      "id": 136650,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.05.16 Nr39",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136650/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136649/index.djvu",
+      "id": 136649,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.05.12 Nr38",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136649/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136648/index.djvu",
+      "id": 136648,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.05.09 Nr37",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136648/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136647/index.djvu",
+      "id": 136647,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.05.05 Nr36",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136647/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136646/index.djvu",
+      "id": 136646,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.05.02 Nr35",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136646/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136645/index.djvu",
+      "id": 136645,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.04.28 Nr34",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136645/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136644/index.djvu",
+      "id": 136644,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.04.25 Nr33",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136644/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136643/index.djvu",
+      "id": 136643,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.04.21 Nr32",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136643/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136642/index.djvu",
+      "id": 136642,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.04.18 Nr31",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136642/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136641/index.djvu",
+      "id": 136641,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.04.14 Nr30",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136641/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136640/index.djvu",
+      "id": 136640,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.04.11 Nr29",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136640/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136639/index.djvu",
+      "id": 136639,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.04.07 Nr28",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136639/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136638/index.djvu",
+      "id": 136638,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.04.04 Nr27",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136638/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136637/index.djvu",
+      "id": 136637,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.03.31 Nr26",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136637/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136636/index.djvu",
+      "id": 136636,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.03.28 Nr25",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136636/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136635/index.djvu",
+      "id": 136635,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.03.24 Nr24",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136635/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136634/index.djvu",
+      "id": 136634,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.03.21 Nr23",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136634/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136633/index.djvu",
+      "id": 136633,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.03.17 Nr22",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136633/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136632/index.djvu",
+      "id": 136632,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.03.14 Nr21",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136632/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136631/index.djvu",
+      "id": 136631,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.03.10 Nr20",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136631/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136630/index.djvu",
+      "id": 136630,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.03.07 Nr19",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136630/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136629/index.djvu",
+      "id": 136629,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.03.03 Nr18",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136629/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136628/index.djvu",
+      "id": 136628,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.02.28 Nr17",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136628/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136627/index.djvu",
+      "id": 136627,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.02.24 Nr16",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136627/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136626/index.djvu",
+      "id": 136626,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.02.21 Nr15",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136626/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136625/index.djvu",
+      "id": 136625,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.02.17 Nr14",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136625/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136624/index.djvu",
+      "id": 136624,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.02.14 Nr13",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136624/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136623/index.djvu",
+      "id": 136623,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.02.10 Nr12",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136623/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136622/index.djvu",
+      "id": 136622,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.02.07 Nr11",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136622/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136621/index.djvu",
+      "id": 136621,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.02.03 Nr10",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136621/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136620/index.djvu",
+      "id": 136620,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.01.31 Nr9",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136620/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136619/index.djvu",
+      "id": 136619,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.01.27 Nr8",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136619/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136618/index.djvu",
+      "id": 136618,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.01.24 Nr7",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136618/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136617/index.djvu",
+      "id": 136617,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.01.20 Nr6",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136617/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136616/index.djvu",
+      "id": 136616,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.01.17 Nr5",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136616/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136615/index.djvu",
+      "id": 136615,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.01.13 Nr4",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136615/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136614/index.djvu",
+      "id": 136614,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.01.10 Nr3",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136614/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136613/index.djvu",
+      "id": 136613,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.01.06 Nr2",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136613/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136612/index.djvu",
+      "id": 136612,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1798.01.03 Nr1",
+      "year": "1798",
+      "zip": "http://www.wbc.poznan.pl/Content/136612/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136611/index.djvu",
+      "id": 136611,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.12.30 Nr104",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136611/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136610/index.djvu",
+      "id": 136610,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.12.27 Nr103",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136610/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136609/index.djvu",
+      "id": 136609,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.12.23 Nr102",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136609/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136608/index.djvu",
+      "id": 136608,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.12.20 Nr101",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136608/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136607/index.djvu",
+      "id": 136607,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.12.16 Nr100",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136607/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136606/index.djvu",
+      "id": 136606,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.12.13 Nr99",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136606/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136605/index.djvu",
+      "id": 136605,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.12.09 Nr98",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136605/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136604/index.djvu",
+      "id": 136604,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.12.06 Nr97",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136604/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136603/index.djvu",
+      "id": 136603,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.12.02 Nr96",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136603/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136602/index.djvu",
+      "id": 136602,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.11.29 Nr95",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136602/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136601/index.djvu",
+      "id": 136601,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.11.25 Nr94",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136601/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136600/index.djvu",
+      "id": 136600,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.11.22 Nr93",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136600/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136599/index.djvu",
+      "id": 136599,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.11.18 Nr92",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136599/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136598/index.djvu",
+      "id": 136598,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.11.15 Nr91",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136598/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136597/index.djvu",
+      "id": 136597,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.11.11 Nr90",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136597/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136596/index.djvu",
+      "id": 136596,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.11.08 Nr89",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136596/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136595/index.djvu",
+      "id": 136595,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.11.04 Nr88",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136595/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136594/index.djvu",
+      "id": 136594,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.11.01 Nr87",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136594/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136593/index.djvu",
+      "id": 136593,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.10.28 Nr86",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136593/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136592/index.djvu",
+      "id": 136592,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.10.25 Nr85",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136592/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136591/index.djvu",
+      "id": 136591,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.10.21 Nr84",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136591/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136590/index.djvu",
+      "id": 136590,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.10.18 Nr83",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136590/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136589/index.djvu",
+      "id": 136589,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.10.14 Nr82",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136589/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136588/index.djvu",
+      "id": 136588,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.10.11 Nr81",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136588/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136587/index.djvu",
+      "id": 136587,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.10.07 Nr80",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136587/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136586/index.djvu",
+      "id": 136586,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.10.04 Nr79",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136586/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136585/index.djvu",
+      "id": 136585,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.09.30 Nr78",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136585/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136584/index.djvu",
+      "id": 136584,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.09.27 Nr77",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136584/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136583/index.djvu",
+      "id": 136583,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.09.23 Nr76",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136583/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136582/index.djvu",
+      "id": 136582,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.09.20 Nr75",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136582/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136581/index.djvu",
+      "id": 136581,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.09.16 Nr74",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136581/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136580/index.djvu",
+      "id": 136580,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.09.13 Nr73",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136580/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136579/index.djvu",
+      "id": 136579,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.09.09 Nr72",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136579/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136578/index.djvu",
+      "id": 136578,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.09.06 Nr71",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136578/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136577/index.djvu",
+      "id": 136577,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.09.02 Nr70",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136577/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136576/index.djvu",
+      "id": 136576,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.08.30 Nr69",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136576/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136575/index.djvu",
+      "id": 136575,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.08.26 Nr68",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136575/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136574/index.djvu",
+      "id": 136574,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.08.23 Nr67",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136574/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136573/index.djvu",
+      "id": 136573,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.08.19 Nr66",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136573/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136572/index.djvu",
+      "id": 136572,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.08.15 Nr65",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136572/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136571/index.djvu",
+      "id": 136571,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.08.12 Nr64",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136571/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136570/index.djvu",
+      "id": 136570,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.08.09 Nr63",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136570/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136569/index.djvu",
+      "id": 136569,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.08.05 Nr62",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136569/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136568/index.djvu",
+      "id": 136568,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.08.02 Nr61",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136568/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136567/index.djvu",
+      "id": 136567,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.07.29 Nr60",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136567/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136566/index.djvu",
+      "id": 136566,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.07.26 Nr59",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136566/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136565/index.djvu",
+      "id": 136565,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.07.22 Nr58",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136565/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136564/index.djvu",
+      "id": 136564,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.07.08 Nr54",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136564/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136563/index.djvu",
+      "id": 136563,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.07.05 Nr53",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136563/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136562/index.djvu",
+      "id": 136562,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.07.01 Nr52",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136562/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136561/index.djvu",
+      "id": 136561,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.06.28 Nr51",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136561/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136991/index.djvu",
+      "id": 136991,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.06.24 Nr50",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136991/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136990/index.djvu",
+      "id": 136990,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.06.21 Nr49",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136990/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136989/index.djvu",
+      "id": 136989,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.06.17 Nr48",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136989/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136988/index.djvu",
+      "id": 136988,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.06.14 Nr47",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136988/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136987/index.djvu",
+      "id": 136987,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.06.10 Nr46",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136987/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136986/index.djvu",
+      "id": 136986,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.06.07 Nr45",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136986/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136985/index.djvu",
+      "id": 136985,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.06.03 Nr44",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136985/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136984/index.djvu",
+      "id": 136984,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.05.31 Nr43",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136984/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136983/index.djvu",
+      "id": 136983,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.05.27 Nr42",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136983/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136982/index.djvu",
+      "id": 136982,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.05.24 Nr41",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136982/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136981/index.djvu",
+      "id": 136981,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.05.20 Nr40",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136981/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136980/index.djvu",
+      "id": 136980,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.05.17 Nr39",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136980/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136979/index.djvu",
+      "id": 136979,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.05.13 Nr38",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136979/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136978/index.djvu",
+      "id": 136978,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.05.06 Nr36",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136978/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136977/index.djvu",
+      "id": 136977,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.05.03 Nr35",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136977/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136168/index.djvu",
+      "id": 136168,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.04.29 Nr34",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136168/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136167/index.djvu",
+      "id": 136167,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.04.26 Nr33",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136167/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136166/index.djvu",
+      "id": 136166,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.04.22 Nr32",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136166/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136165/index.djvu",
+      "id": 136165,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.04.19 Nr31",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136165/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136164/index.djvu",
+      "id": 136164,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.04.15 Nr30",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136164/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136163/index.djvu",
+      "id": 136163,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.04.12 Nr29",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136163/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136162/index.djvu",
+      "id": 136162,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.04.08 Nr28",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136162/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136161/index.djvu",
+      "id": 136161,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.04.05 Nr27",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136161/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136160/index.djvu",
+      "id": 136160,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.04.01 Nr26",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136160/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136159/index.djvu",
+      "id": 136159,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.03.29 Nr25",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136159/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136158/index.djvu",
+      "id": 136158,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.03.25 Nr24",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136158/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136157/index.djvu",
+      "id": 136157,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.03.22 Nr23",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136157/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136156/index.djvu",
+      "id": 136156,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.03.18 Nr22",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136156/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136155/index.djvu",
+      "id": 136155,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.03.15 Nr21",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136155/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136154/index.djvu",
+      "id": 136154,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.03.11 Nr20",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136154/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136153/index.djvu",
+      "id": 136153,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.03.08 Nr19",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136153/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136152/index.djvu",
+      "id": 136152,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.03.04 Nr18",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136152/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136151/index.djvu",
+      "id": 136151,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.03.01 Nr17",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136151/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136149/index.djvu",
+      "id": 136149,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.02.22 Nr15",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136149/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136148/index.djvu",
+      "id": 136148,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.02.18 Nr14",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136148/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136147/index.djvu",
+      "id": 136147,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.02.15 Nr13",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136147/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136146/index.djvu",
+      "id": 136146,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.02.11 Nr12",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136146/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136145/index.djvu",
+      "id": 136145,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.02.08 Nr11",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136145/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136144/index.djvu",
+      "id": 136144,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.02.04 Nr10",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136144/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136143/index.djvu",
+      "id": 136143,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.02.01 Nr9",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136143/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136142/index.djvu",
+      "id": 136142,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.01.28 Nr8",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136142/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136141/index.djvu",
+      "id": 136141,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.01.25 Nr7",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136141/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136140/index.djvu",
+      "id": 136140,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.01.21 Nr6",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136140/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136139/index.djvu",
+      "id": 136139,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.01.14 Nr4",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136139/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136138/index.djvu",
+      "id": 136138,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.01.11 Nr3",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136138/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136137/index.djvu",
+      "id": 136137,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.01.07 Nr2",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136137/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/136136/index.djvu",
+      "id": 136136,
+      "name": "Gazeta Po\u0142udniowo-Pruska 1797.01.04 Nr1",
+      "year": "1797",
+      "zip": "http://www.wbc.poznan.pl/Content/136136/zip/"
+    }
+  ],
+  "name": "Gazeta Po\u0142udniowo-Pruska",
+  "years": [
+    {
+      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=131010&tab=3",
+      "year": "1806"
+    },
+    {
+      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=130838&tab=3",
+      "year": "1805"
+    },
+    {
+      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=130822&tab=3",
+      "year": "1804"
+    },
+    {
+      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=130809&tab=3",
+      "year": "1803"
+    },
+    {
+      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=128976&tab=3",
+      "year": "1802"
+    },
+    {
+      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=128436&tab=3",
+      "year": "1799"
+    },
+    {
+      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=127762&tab=3",
+      "year": "1798"
+    },
+    {
+      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=127196&tab=3",
+      "year": "1797"
+    }
+  ]
+}
