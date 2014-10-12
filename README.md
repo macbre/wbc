@@ -35,3 +35,4 @@ sudo pip install -r requirements.txt
 ## Publikacje
 
 * [Kronika Miasta Poznania](http://www.wbc.poznan.pl/dlibra/publication?id=106644)
+* [Dziennik Poznański](http://www.wbc.poznan.pl/dlibra/publication?id=2290)

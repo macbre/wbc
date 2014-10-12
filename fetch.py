@@ -155,6 +155,35 @@ class WBCFetch(object):
 
         return html.fromstring(resp.text)
 
+    def _get_issues_from_url(self, url):
+        """
+        Gets the list of all issues from given URL with year index
+
+        May make additional HTTP requests if the list of issues is nested
+
+        @see http://www.wbc.poznan.pl/dlibra/publication?id=86859&tab=3
+        """
+        tree = self.fetch_and_parse(url)
+
+        # links the issues, e.g. <http://www.wbc.poznan.pl/dlibra/editions-content?id=129941>
+        items = tree.xpath('//a[@class="contentTriggerStruct"]')
+
+        # all issues were found, return them
+        if len(items) > 0:
+            self._logger.debug('<%s> issues found - %s', url, len(items))
+            return items
+
+        # we need to recursively fetch the list of all issues
+        items = []
+        nodes = tree.xpath('//li[a[@href="%s"]]//li/a[@class="item-content"]' % url)
+
+        self._logger.debug('<%s> entering recursive mode', url)
+
+        for node in nodes:
+            items.extend(self._get_issues_from_url(node.attrib.get('href')))
+
+        return items
+
     def run(self):
         """
         Do the stuff ;)
@@ -198,10 +227,7 @@ class WBCFetch(object):
             # przygotuj strukturę katalogów
             self.make_dir("/issues/" + year)
 
-            tree = self.fetch_and_parse(url)
-
-            # linki do <http://www.wbc.poznan.pl/dlibra/editions-content?id=129941>
-            items = tree.xpath('//a[@class="contentTriggerStruct"]')
+            items = self._get_issues_from_url(url)
 
             self._index['count'] += len(items)
 
@@ -211,9 +237,12 @@ class WBCFetch(object):
 
                 # pobierz ID pliku dla danego numeru
                 resp = self._session.get(url)
-                issue_id = int(re.search('content_url=/Content/(\d+)/index.djvu', resp.text).group(1))
 
-                djvu_url = "http://www.wbc.poznan.pl/Content/%d/index.djvu" % issue_id
+                matches = re.search('content_url=/Content/(\d+)/(\w+)\.djvu', resp.text)
+                issue_id = int(matches.group(1))
+                djvu_file = matches.group(2)
+
+                djvu_url = "http://www.wbc.poznan.pl/Content/%d/%s.djvu" % (issue_id, djvu_file)
                 zip_url = "http://www.wbc.poznan.pl/Content/%d/zip/" % issue_id
 
                 self._logger.debug("%s: <%s>", name, djvu_url)
