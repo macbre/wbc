@@ -19,7 +19,7 @@ class TextTidy(object):
 
         # do the stuff
         for line in self._in:
-            line = line.strip()
+            line = str(line).strip()
 
             # empty headings
             if line.startswith('\x1f\x1d\x0b'):
@@ -40,6 +40,9 @@ class TextTidy(object):
             # headings for subsequent pages in the same chapter - can be skipped
             if line.startswith('\x0c'):
                 continue
+
+            # cleanup
+            line = line.replace('\x1f', '')
 
             # merge consecutive lines that end with a line break (-)
             if line.endswith('-') and not line.endswith(' -'):

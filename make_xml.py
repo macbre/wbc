@@ -24,7 +24,14 @@ import json
 from sys import stdout
 from xml.sax.saxutils import XMLGenerator
 
+try:
+    from StringIO import StringIO
+except ImportError:
+    from io import StringIO
+
 from docopt import docopt
+
+from tidy import TextTidy
 
 logging.basicConfig(level=logging.DEBUG)
 
@@ -81,11 +88,14 @@ class SphinxXML(object):
         self._logger.info('Adding document #{}'.format(document_id))
         self._generator.startElement(self.TAG_DOCUMENT, {"id": str(document_id)})
 
-        for key, val in kwargs.iteritems():
-            self._generator.ignorableWhitespace("\n\t")
-            self._generator.startElement(key, {})
-            self._generator.characters(str(val))
-            self._generator.endElement(key)
+        try:
+            for key, val in kwargs.iteritems():
+                self._generator.ignorableWhitespace("\n\t")
+                self._generator.startElement(key, {})
+                self._generator.characters(val)
+                self._generator.endElement(key)
+        except ValueError:
+            self._logger.error('add_document failed', exc_info=True)
 
         self._generator.ignorableWhitespace("\n")
         self._generator.endElement(self.TAG_DOCUMENT)
@@ -95,6 +105,24 @@ class SphinxXML(object):
     def end(self):
         self._generator.endElement(self.TAG_ROOT)
         self._generator.endDocument()
+
+
+def get_content_stream(publication_id, issue_year, issue_id):
+    """
+    :type publication_id int
+    :type issue_id int
+    :type issue_year int
+    :rtype StringIO
+    """
+    file_path = 'publications/{}/issues/{}/{}.txt'.format(publication_id, issue_year, issue_id)
+
+    output = StringIO()
+
+    with open(file_path) as fp:
+        tidy = TextTidy(fp.readlines())
+        tidy.tidy(output)
+
+    return output
 
 
 def run(args):
@@ -123,17 +151,19 @@ def run(args):
 
     # add documents
     for issue in issues:
-        issue['year'] = issue['year'].split('_')[-1]  # 1951_1956
+        published_year = issue['year'].split('_')[-1]  # 1951_1956
 
-        content = ''  # TODO
+        content = get_content_stream(publication_id, issue['year'], issue['id'])
 
         xml.add_document(
             document_id=issue['id'],
             title=issue['name'].encode('utf-8'),
-            content=content,
-            published_year=int(issue['year']),
+            content=content.getvalue(),
+            published_year=published_year,
             pub_id=publication_id
         )
+
+        content.close()
 
     xml.end()
 
