@@ -134,6 +134,8 @@ def run(args):
     # schema
     xml.add_field('title')
     xml.add_field('content')
+    xml.add_attr('title', 'string')
+    xml.add_attr('content', 'string')
     xml.add_attr('published_year', 'int')
     xml.add_attr('pub_id', 'int', bits='16')
 
