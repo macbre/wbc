@@ -21,13 +21,9 @@ Options:
 import logging
 import json
 
+from io import StringIO
 from sys import stdout
 from xml.sax.saxutils import XMLGenerator
-
-try:
-    from StringIO import StringIO
-except ImportError:
-    from io import StringIO
 
 from docopt import docopt
 
@@ -73,7 +69,7 @@ class SphinxXML(object):
         self._generator.ignorableWhitespace("\n\n")
         self._generator.startElement(self.TAG_SCHEMA, {})
 
-        for key, items in self._schema.iteritems():
+        for key, items in self._schema.items():
             for item in items:
                 self._generator.ignorableWhitespace("\n\t")
                 self._generator.startElement('sphinx:{}'.format(key), attrs=item)
@@ -89,13 +85,13 @@ class SphinxXML(object):
         self._generator.startElement(self.TAG_DOCUMENT, {"id": str(document_id)})
 
         try:
-            for key, val in kwargs.iteritems():
+            for key, val in kwargs.items():
                 self._generator.ignorableWhitespace("\n\t")
                 self._generator.startElement(key, {})
                 self._generator.characters(val)
                 self._generator.endElement(key)
         except ValueError:
-            self._logger.error('add_document failed', exc_info=True)
+            self._logger.error('add_document failed (doc ID #{})'.format(document_id), exc_info=True)
 
         self._generator.ignorableWhitespace("\n")
         self._generator.endElement(self.TAG_DOCUMENT)
@@ -118,9 +114,8 @@ def get_content_stream(publication_id, issue_year, issue_id):
 
     output = StringIO()
 
-    with open(file_path) as fp:
-        tidy = TextTidy(fp.readlines())
-        tidy.tidy(output)
+    with open(file_path, mode='rb') as fp:
+        TextTidy(_in=fp).tidy(output=output)
 
     return output
 
@@ -168,4 +163,7 @@ def run(args):
     xml.end()
 
 if __name__ == '__main__':
+    # val = get_content_stream(106644, 1959, 138962).getvalue()
+    # print (val.encode('utf-8'))
+
     run(docopt(__doc__, version='WBC v0.1'))

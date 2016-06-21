@@ -6,20 +6,33 @@ Clean the provided txt file before passing it to the indexer
 
 ./tidy.py issue.txt > clean.txt
 """
+from __future__ import unicode_literals, print_function
+
 import fileinput
 import sys
+import logging
 
 
 class TextTidy(object):
     def __init__(self, _in):
         self._in = _in
+        self._logger = logging.getLogger(self.__class__.__name__)
 
     def tidy(self, output=sys.stdout):
         buf = ''
 
+        def _write(_line):
+            output.write(_line + "\n")
+
         # do the stuff
         for line in self._in:
-            line = str(line).strip()
+            try:
+                line = line.decode('utf-8', 'ignore')
+            except UnicodeDecodeError:
+                self._logger.error('UTF-8 encoding error', exc_info=True)
+                print(line)
+
+            line = line.strip()
 
             # empty headings
             if line.startswith('\x1f\x1d\x0b'):
@@ -32,7 +45,7 @@ class TextTidy(object):
                 line = line[2:]  # remove magic characters
 
                 # ignore empty headings followed by the title
-                if line == '':
+                if len(line) == 0:
                     continue
 
                 line = "\n{}".format(line)
@@ -51,12 +64,12 @@ class TextTidy(object):
             elif not line.endswith('.'):
                 buf += line + ' '
             else:
-                output.write((buf + line).rstrip() + "\n")
+                _write((buf + line).rstrip())
                 buf = ''
 
         # print any remaining lines
         if buf != '':
-            output.write(buf + "\n")
+            _write(buf)
 
 
 def main():

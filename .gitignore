@@ -9,7 +9,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-env/
+env*/
 bin/
 build/
 develop-eggs/
@@ -56,3 +56,5 @@ docs/_build/
 
 # generated files
 publications/**/issues
+
+*.xml
