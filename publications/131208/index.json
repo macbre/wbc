@@ -6321,43 +6321,43 @@
   "name": "Gazeta Pozna\u0144ska",
   "years": [
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=311516&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/311516?tab=1",
       "year": "1815"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=142561&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/142561?tab=1",
       "year": "1814"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=137023&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/137023?tab=1",
       "year": "1813"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=137676&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/137676?tab=1",
       "year": "1812"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=132067&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/132067?tab=1",
       "year": "1811"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=131821&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/131821?tab=1",
       "year": "1810"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=131596&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/131596?tab=1",
       "year": "1809"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=316156&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/316156?tab=1",
       "year": "1808"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=131315&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/131315?tab=1",
       "year": "1807"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=131209&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/131209?tab=1",
       "year": "1806"
     }
   ]

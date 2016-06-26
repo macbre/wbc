@@ -4067,35 +4067,35 @@
   "name": "Gazeta Po\u0142udniowo-Pruska",
   "years": [
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=131010&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/131010?tab=1",
       "year": "1806"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=130838&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/130838?tab=1",
       "year": "1805"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=130822&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/130822?tab=1",
       "year": "1804"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=130809&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/130809?tab=1",
       "year": "1803"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=128976&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/128976?tab=1",
       "year": "1802"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=128436&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/128436?tab=1",
       "year": "1799"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=127762&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/127762?tab=1",
       "year": "1798"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=127196&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/127196?tab=1",
       "year": "1797"
     }
   ]
