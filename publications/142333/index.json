@@ -1,6 +1,6 @@
 {
   "copyrights": "no info",
-  "count": 3941,
+  "count": 3943,
   "index": "http://www.wbc.poznan.pl/dlibra/publication?id=142333&tab=1",
   "issues": [
     {
@@ -3877,9 +3877,16 @@
     {
       "djvu": "http://www.wbc.poznan.pl/Content/266914/index.djvu",
       "id": 266914,
-      "name": "Gazeta Wielkiego Xi\u0119stwa Pozna\u0144skiego 1845.05.29 Nr122",
+      "name": "Gazeta Wielkiego Xi\u0119stwa Pozna\u0144skiego 1845.05.30 Nr123",
       "year": "1845",
       "zip": "http://www.wbc.poznan.pl/Content/266914/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/374766/index.djvu",
+      "id": 374766,
+      "name": "Gazeta Wielkiego Xi\u0119stwa Pozna\u0144skiego 1845.05.29 Nr122",
+      "year": "1845",
+      "zip": "http://www.wbc.poznan.pl/Content/374766/zip/"
     },
     {
       "djvu": "http://www.wbc.poznan.pl/Content/266913/index.djvu",
@@ -4647,9 +4654,16 @@
     {
       "djvu": "http://www.wbc.poznan.pl/Content/266623/index.djvu",
       "id": 266623,
-      "name": "Gazeta Wielkiego Xi\u0119stwa Pozna\u0144skiego 1845.01.14 Nr11",
+      "name": "Gazeta Wielkiego Xi\u0119stwa Pozna\u0144skiego 1845.01.15 Nr12",
       "year": "1845",
       "zip": "http://www.wbc.poznan.pl/Content/266623/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/373601/index.djvu",
+      "id": 373601,
+      "name": "Gazeta Wielkiego Xi\u0119stwa Pozna\u0144skiego 1845.01.14 Nr11",
+      "year": "1845",
+      "zip": "http://www.wbc.poznan.pl/Content/373601/zip/"
     },
     {
       "djvu": "http://www.wbc.poznan.pl/Content/266432/index.djvu",
@@ -7844,11 +7858,11 @@
       "zip": "http://www.wbc.poznan.pl/Content/177345/zip/"
     },
     {
-      "djvu": "http://www.wbc.poznan.pl/Content/260563/index.djvu",
-      "id": 260563,
+      "djvu": "http://www.wbc.poznan.pl/Content/342615/index.djvu",
+      "id": 342615,
       "name": "Gazeta Wielkiego Xi\u0119stwa Pozna\u0144skiego 1843.03.16 Nr64",
       "year": "1843",
-      "zip": "http://www.wbc.poznan.pl/Content/260563/zip/"
+      "zip": "http://www.wbc.poznan.pl/Content/342615/zip/"
     },
     {
       "djvu": "http://www.wbc.poznan.pl/Content/177344/index.djvu",
@@ -27594,123 +27608,123 @@
   "name": "Gazeta Wielkiego Xi\u0119stwa Pozna\u0144skiego",
   "years": [
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=250036&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/250036?tab=1",
       "year": "1852"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=249896&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/249896?tab=1",
       "year": "1848"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=249016&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/249016?tab=1",
       "year": "1846"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=248436&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/248436?tab=1",
       "year": "1845"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=325478&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/325478?tab=1",
       "year": "1844"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=190636&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/190636?tab=1",
       "year": "1843"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=186747&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/186747?tab=1",
       "year": "1842"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=186745&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/186745?tab=1",
       "year": "1841"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=186743&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/186743?tab=1",
       "year": "1840"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=185536&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/185536?tab=1",
       "year": "1839"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=181636&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/181636?tab=1",
       "year": "1938"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=181256&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/181256?tab=1",
       "year": "1837"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=176477&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/176477?tab=1",
       "year": "1836"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=322597&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/322597?tab=1",
       "year": "1935"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=176456&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/176456?tab=1",
       "year": "1834"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=174361&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/174361?tab=1",
       "year": "1833"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=173436&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/173436?tab=1",
       "year": "1832"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=320037&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/320037?tab=1",
       "year": "1831"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=316065&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/316065?tab=1",
       "year": "1830"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=324860&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/324860?tab=1",
       "year": "1828"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=173417&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/173417?tab=1",
       "year": "1827"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=173416&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/173416?tab=1",
       "year": "1826"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=172356&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/172356?tab=1",
       "year": "1824_1825"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=149978&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/149978?tab=1",
       "year": "1822"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=315558&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/315558?tab=1",
       "year": "1821"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=315265&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/315265?tab=1",
       "year": "1819"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=149416&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/149416?tab=1",
       "year": "1818"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=146796&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/146796?tab=1",
       "year": "1817"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=142334&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/142334?tab=1",
       "year": "1816"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=310856&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/310856?tab=1",
       "year": "1815"
     }
   ]
