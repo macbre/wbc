@@ -1,6 +1,6 @@
 {
   "copyrights": "dla wszystkich w zakresie dozwolonego u\u017cytku",
-  "count": 299,
+  "count": 301,
   "index": "http://www.wbc.poznan.pl/dlibra/publication?id=106644&tab=1",
   "issues": [
     {
@@ -2095,324 +2095,338 @@
       "name": "Kronika Miasta Poznania 2009 Nr4; Staro\u0142\u0119ka, G\u0142uszyna, Krzesiny",
       "year": "2009",
       "zip": "http://www.wbc.poznan.pl/Content/161589/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/131069/index.djvu",
+      "id": 131069,
+      "name": "Kronika Miasta Poznania 2010 Nr1; Sport",
+      "year": "2010",
+      "zip": "http://www.wbc.poznan.pl/Content/131069/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/138817/index.djvu",
+      "id": 138817,
+      "name": "Kronika Miasta Poznania 2010 Nr2; Muzyka",
+      "year": "2010",
+      "zip": "http://www.wbc.poznan.pl/Content/138817/zip/"
     }
   ],
   "name": "Kronika Miasta Poznania",
   "years": [
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=121430&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/121430?tab=1",
       "year": "1923"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=121432&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/121432?tab=1",
       "year": "1924"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=121433&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/121433?tab=1",
       "year": "1925"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=121435&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/121435?tab=1",
       "year": "1926"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=122206&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/122206?tab=1",
       "year": "1927"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=122271&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/122271?tab=1",
       "year": "1928"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=122280&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/122280?tab=1",
       "year": "1929"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=122286&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/122286?tab=1",
       "year": "1930"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=122391&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/122391?tab=1",
       "year": "1931"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=122396&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/122396?tab=1",
       "year": "1932"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=122400&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/122400?tab=1",
       "year": "1933"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=122404&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/122404?tab=1",
       "year": "1934"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=122409&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/122409?tab=1",
       "year": "1935"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=123133&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/123133?tab=1",
       "year": "1936"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=123138&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/123138?tab=1",
       "year": "1937"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=123143&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/123143?tab=1",
       "year": "1938"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=123289&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/123289?tab=1",
       "year": "1939"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=127738&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/127738?tab=1",
       "year": "1945"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=127741&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/127741?tab=1",
       "year": "1946"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=127961&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/127961?tab=1",
       "year": "1947"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=129341&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/129341?tab=1",
       "year": "1948"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=129342&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/129342?tab=1",
       "year": "1949"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=129796&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/129796?tab=1",
       "year": "1950"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=129817&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/129817?tab=1",
       "year": "1951_1956"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=137559&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/137559?tab=1",
       "year": "1957"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=129937&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/129937?tab=1",
       "year": "1958"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=130077&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/130077?tab=1",
       "year": "1959"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=130085&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/130085?tab=1",
       "year": "1960"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=130333&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/130333?tab=1",
       "year": "1961"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=130363&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/130363?tab=1",
       "year": "1962"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=130378&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/130378?tab=1",
       "year": "1963"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=131706&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/131706?tab=1",
       "year": "1964"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=131707&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/131707?tab=1",
       "year": "1965"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=131382&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/131382?tab=1",
       "year": "1966"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=131381&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/131381?tab=1",
       "year": "1967"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=136474&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/136474?tab=1",
       "year": "1968"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=135545&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/135545?tab=1",
       "year": "1969"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=135550&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/135550?tab=1",
       "year": "1970"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=135555&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/135555?tab=1",
       "year": "1971"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=135560&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/135560?tab=1",
       "year": "1972"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=136546&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/136546?tab=1",
       "year": "1973"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=136577&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/136577?tab=1",
       "year": "1974"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=137002&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/137002?tab=1",
       "year": "1975"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=136508&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/136508?tab=1",
       "year": "1976"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=137007&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/137007?tab=1",
       "year": "1977"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=138334&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/138334?tab=1",
       "year": "1978"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=137122&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/137122?tab=1",
       "year": "1979"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=137346&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/137346?tab=1",
       "year": "1980"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=137130&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/137130?tab=1",
       "year": "1981"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=137137&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/137137?tab=1",
       "year": "1982"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=137356&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/137356?tab=1",
       "year": "1983"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=137145&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/137145?tab=1",
       "year": "1984"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=142458&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/142458?tab=1",
       "year": "1985"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=139984&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/139984?tab=1",
       "year": "1986"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=140412&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/140412?tab=1",
       "year": "1987"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=140414&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/140414?tab=1",
       "year": "1988"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=156076&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/156076?tab=1",
       "year": "1989"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=142381&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/142381?tab=1",
       "year": "1990"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=141976&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/141976?tab=1",
       "year": "1991"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=150104&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/150104?tab=1",
       "year": "1992"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=150107&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/150107?tab=1",
       "year": "1993"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=150113&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/150113?tab=1",
       "year": "1994"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=151338&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/151338?tab=1",
       "year": "1995"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=156296&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/156296?tab=1",
       "year": "1996"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=161416&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/161416?tab=1",
       "year": "1997"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=163707&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/163707?tab=1",
       "year": "1998"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=169497&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/169497?tab=1",
       "year": "1999"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=166723&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/166723?tab=1",
       "year": "2000"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=169696&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/169696?tab=1",
       "year": "2001"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=169755&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/169755?tab=1",
       "year": "2002"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=169873&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/169873?tab=1",
       "year": "2003"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=106723&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/106723?tab=1",
       "year": "2004"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=106706&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/106706?tab=1",
       "year": "2005"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=106699&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/106699?tab=1",
       "year": "2006"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=106672&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/106672?tab=1",
       "year": "2007"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=106645&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/106645?tab=1",
       "year": "2008"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=108697&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/108697?tab=1",
       "year": "2009"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=120560&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/120560?tab=1",
       "year": "2010"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=256211&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/256211?tab=1",
       "year": "2011"
     }
   ]
