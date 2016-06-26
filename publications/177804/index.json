@@ -7,7 +7,7 @@
       "djvu": "http://www.wbc.poznan.pl/Content/172528/index.djvu",
       "id": 172528,
       "name": "Warciarz: biuletyn Klubu Sportowego \"Warta\" Stow. Zap. w Poznaniu 1939 marzec R.11 Nr10 (87)",
-      "year": "",
+      "year": "1939",
       "zip": "http://www.wbc.poznan.pl/Content/172528/zip/"
     },
     {
@@ -595,47 +595,47 @@
   "name": "Warciarz: organ Klubu Sportowego \"Warta\" T. z. w Poznaniu",
   "years": [
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=177804&tab=3",
-      "year": ""
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/177804?tab=1",
+      "year": "1939"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=177799&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/177799?tab=1",
       "year": "1938"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=177788&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/177788?tab=1",
       "year": "1937"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=177776&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/177776?tab=1",
       "year": "1936"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=177741&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/177741?tab=1",
       "year": "1935"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=177027&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/177027?tab=1",
       "year": "1934"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=177007&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/177007?tab=1",
       "year": "1933"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=176994&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/176994?tab=1",
       "year": "1932"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=176983&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/176983?tab=1",
       "year": "1931"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=176976&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/176976?tab=1",
       "year": "1930"
     },
     {
-      "index": "http://www.wbc.poznan.pl/dlibra/publication?id=176957&tab=3",
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/176957?tab=1",
       "year": "1929"
     }
   ]
