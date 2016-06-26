@@ -147,6 +147,9 @@ class WBCFetch(object):
     def fetch_and_parse(self, url):
         """
         Fetches provided URL and parses to the tree
+
+        :type url str
+        :rtype lxml.html.HtmlElement
         """
         resp = self._session.get(url)
 
@@ -196,7 +199,7 @@ class WBCFetch(object):
         except IndexError:
             copyrights = 'no info'
 
-        items = tree.xpath('//div[@id="struct"]/ul//ul/li/a[@class="item-content"]')
+        items = tree.xpath('//div[@id="struct"]/ul//ul/li/a[img]')
 
         self._logger.debug("%s (%s)", name, copyrights)
         self._logger.debug("Got %d year(s) of issues", len(items))
@@ -208,8 +211,11 @@ class WBCFetch(object):
         years = []
 
         for item in reversed(items):
-            year = item.text.strip()
+            year = item.attrib.get('title').rstrip(' -')
             url = item.attrib.get('href')
+
+            if not re.match(r'^\d{4}', year):
+                continue
 
             year = re.sub('[^0-9]', '_', year)
 
@@ -267,13 +273,14 @@ class WBCFetch(object):
 
                 # @see https://docs.python.org/2/library/subprocess.html#subprocess.call
                 with open("%s/issues/%s/%d.txt" % (self.get_path(), year, issue_id), "wb") as output:
+                    """
                     output.writelines([
                         '# Fetched from %s\n' % djvu_url,
                         '# Under Fair Use license\n',
                         '\n'
                     ])
-
                     output.flush()
+                    """
 
                     self._logger.debug("Output: %s", output.name)
 
