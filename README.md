@@ -32,6 +32,14 @@ sudo pip install -r requirements.txt
          - <ID numeru>.txt
 ```
 
+## xmlpipe2
+
+Aby wygenerować plik dla [źródła SphinxSE `xmlpipe2`](http://sphinxsearch.com/docs/current/xmlpipe2.html):
+
+```
+./make_xml.py 106644 | gzip -c > 106644.xml.gz
+```
+
 ## Publikacje
 
 * [Kronika Miasta Poznania](http://www.wbc.poznan.pl/dlibra/publication?id=106644)
