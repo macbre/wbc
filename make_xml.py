@@ -146,7 +146,7 @@ def run(args):
     with open(index_path) as fp:
         publication_data = json.load(fp)
 
-    logging.info("Got {} issues for '{}'".format(publication_data['count'], publication_data['name']))
+    logging.info("Got {} issues for '{}'".format(publication_data['count'], publication_data['name'].encode('utf-8')))
 
     # add documents
     for issue in publication_data['issues']:
