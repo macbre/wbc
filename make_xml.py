@@ -144,10 +144,12 @@ def run(args):
     # read index.json for the publication
     index_path = 'publications/{}/index.json'.format(publication_id)
     with open(index_path) as fp:
-        issues = json.load(fp)['issues']
+        publication_data = json.load(fp)
+
+    logging.info("Got {} issues for '{}'".format(publication_data['count'], publication_data['name']))
 
     # add documents
-    for issue in issues:
+    for issue in publication_data['issues']:
         published_year = issue['year'].split('_')[-1]  # 1951_1956
 
         content = get_content_stream(publication_id, issue['year'], issue['id'])
