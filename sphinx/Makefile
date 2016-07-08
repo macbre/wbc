@@ -1,8 +1,8 @@
 index:
-	indexer -c sphinx.conf --rotate wbc
+	zcat ../106644.xml.gz | docker-compose run sphinx indexer -c /opt/sphinx.conf --rotate wbc
 
 start:
-	searchd -c sphinx.conf
+	docker-compose up -d
 
 console:
 	mysql -h127.0.0.1 -P 36307 --default-character-set=utf8
