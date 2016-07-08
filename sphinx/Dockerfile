@@ -6,7 +6,10 @@ FROM debian:sid
 RUN rm /bin/sh && ln -s /bin/bash /bin/sh
 
 # install dependencies
-RUN apt-get update && apt-get install -y sphinxsearch
+RUN apt-get update && apt-get install -y wget
+
+RUN wget http://sphinxsearch.com/files/sphinxsearch_2.2.10-release-1~jessie_amd64.deb -O /tmp/sphinxsearch.deb
+RUN dpkg -i /tmp/sphinxsearch.deb || apt-get -f install -y
 
 # set timezone
 # @see http://unix.stackexchange.com/a/76711

@@ -4,6 +4,9 @@ index:
 start:
 	docker-compose up -d
 
+stop:
+	docker-compose stop
+
 console:
 	mysql -h127.0.0.1 -P 36307 --default-character-set=utf8
 
