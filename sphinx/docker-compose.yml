@@ -8,3 +8,7 @@ services:
     - "36307:36307"
     volumes:
     - ./data:/opt/sphinx/index
+    logging:
+      driver: syslog
+      options:
+        tag: sphinx
