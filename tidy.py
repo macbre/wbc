@@ -14,6 +14,10 @@ import logging
 
 
 class TextTidy(object):
+    EMPTY_HEADING = '\x1f\x1d\x0b'
+    PAGE_NUMBER = '\x0c'
+    PAGE_BREAK = '\x1f\x1d'
+
     def __init__(self, _in):
         self._in = _in
         self._logger = logging.getLogger(self.__class__.__name__)
@@ -35,13 +39,13 @@ class TextTidy(object):
             line = line.strip()
 
             # empty headings
-            if line.startswith('\x1f\x1d\x0b'):
+            if line.startswith(self.EMPTY_HEADING):
                 pass
             # page numbers
-            elif line.startswith('\x0c'):
+            elif line.startswith(self.PAGE_NUMBER):
                 continue
             # page breaks - headings
-            elif line.startswith('\x1f\x1d'):
+            elif line.startswith(self.PAGE_BREAK):
                 line = line[2:]  # remove magic characters
 
                 # ignore empty headings followed by the title
