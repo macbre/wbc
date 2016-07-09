@@ -64,7 +64,7 @@ class SphinxXML(object):
 
     def start(self):
         self._generator.startDocument()
-        self._generator.startElement(self.TAG_ROOT, {})
+        self._generator.startElement(self.TAG_ROOT, {'xmlns:sphinx': 'http://sphinxsearch.com/'})
 
         # print schema
         self._generator.ignorableWhitespace("\n\n")
