@@ -107,11 +107,12 @@ class SphinxXML(object):
         self._generator.endDocument()
 
 
-def get_content_stream(publication_id, issue_year, issue_id):
+def get_content_stream(publication_id, issue_year, issue_id, chapter_break=''):
     """
     :type publication_id int
     :type issue_id int
     :type issue_year int
+    :type chapter_break str
     :rtype StringIO
     """
     file_path = 'publications/{}/issues/{}/{}.txt'.format(publication_id, issue_year, issue_id)
@@ -119,7 +120,7 @@ def get_content_stream(publication_id, issue_year, issue_id):
     output = StringIO()
 
     with open(file_path, mode='rb') as fp:
-        TextTidy(_in=fp).tidy(output=output)
+        TextTidy(_in=fp, chapter_break=chapter_break).tidy(output=output)
 
     return output
 
@@ -130,6 +131,8 @@ def run(args):
 
     :type args object arguments
     """
+    chapter_break = '__CHAPTER__'
+
     publication_id = args['ID']
     logging.info('Generating XML for publication #{}'.format(publication_id))
 
@@ -139,10 +142,12 @@ def run(args):
 
     # fields are full-text searchable
     xml.add_field('title')
+    xml.add_field('chapter')
     xml.add_field('content')
 
     # attributes are accessible via SELECT queries
     xml.add_attr('title', 'string')
+    xml.add_attr('chapter', 'string')
     xml.add_attr('content', 'string')
     xml.add_attr('published_year', 'int')
     xml.add_attr('publication_id', 'int')
@@ -161,22 +166,24 @@ def run(args):
     for issue in publication_data['issues']:
         published_year = issue['year'].split('_')[-1]  # 1951_1956
 
-        content = get_content_stream(publication_id, issue['year'], issue['id'])
+        content = get_content_stream(publication_id, issue['year'], issue['id'], chapter_break=chapter_break)
 
-        xml.add_document(
-            document_id=str(issue['id']),
-            title=issue['name'].encode('utf-8'),
-            content=content.getvalue(),
-            published_year=published_year,
-            publication_id=publication_id
-        )
+        # split by chapters and index them separately
+        chapters = content.getvalue().split(chapter_break)
+
+        for chapter in chapters:
+            xml.add_document(
+                document_id=str(issue['id']),
+                title=issue['name'].encode('utf-8'),
+                chapter=chapter.split("\n")[0].strip(),
+                content=chapter,
+                published_year=published_year,
+                publication_id=publication_id
+            )
 
         content.close()
 
     xml.end()
 
 if __name__ == '__main__':
-    # val = get_content_stream(106644, 1959, 138962).getvalue()
-    # print (val.encode('utf-8'))
-
     run(docopt(__doc__, version='WBC v0.1'))
