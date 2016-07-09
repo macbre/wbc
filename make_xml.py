@@ -48,6 +48,7 @@ class SphinxXML(object):
             'field': [],
             'attr': []
         }
+        self._document_id = 0
 
     def add_field(self, name):
         self._schema['field'].append({
@@ -80,9 +81,12 @@ class SphinxXML(object):
         self._generator.ignorableWhitespace("\n\n")
         self._output.flush()
 
-    def add_document(self, document_id, **kwargs):
-        self._logger.info('Adding document #{}'.format(document_id))
-        self._generator.startElement(self.TAG_DOCUMENT, {"id": str(document_id)})
+    def add_document(self, **kwargs):
+        # auto-generate incrementing document IDs
+        self._document_id += 1
+
+        self._logger.info('Adding document #{}'.format(self._document_id))
+        self._generator.startElement(self.TAG_DOCUMENT, {"id": str(self._document_id)})
 
         try:
             for key, val in kwargs.items():
@@ -91,7 +95,7 @@ class SphinxXML(object):
                 self._generator.characters(val)
                 self._generator.endElement(key)
         except ValueError:
-            self._logger.error('add_document failed (doc ID #{})'.format(document_id), exc_info=True)
+            self._logger.error('add_document failed (doc ID #{})'.format(self._document_id), exc_info=True)
 
         self._generator.ignorableWhitespace("\n")
         self._generator.endElement(self.TAG_DOCUMENT)
@@ -132,12 +136,17 @@ def run(args):
     xml = SphinxXML()
 
     # schema
+
+    # fields are full-text searchable
     xml.add_field('title')
     xml.add_field('content')
+
+    # attributes are accessible via SELECT queries
     xml.add_attr('title', 'string')
     xml.add_attr('content', 'string')
     xml.add_attr('published_year', 'int')
-    xml.add_attr('pub_id', 'int', bits='16')
+    xml.add_attr('publication_id', 'int')
+    xml.add_attr('document_id', 'int')
 
     xml.start()
 
@@ -155,11 +164,11 @@ def run(args):
         content = get_content_stream(publication_id, issue['year'], issue['id'])
 
         xml.add_document(
-            document_id=issue['id'],
+            document_id=str(issue['id']),
             title=issue['name'].encode('utf-8'),
             content=content.getvalue(),
             published_year=published_year,
-            pub_id=publication_id
+            publication_id=publication_id
         )
 
         content.close()
