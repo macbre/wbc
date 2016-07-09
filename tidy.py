@@ -9,8 +9,9 @@ Clean the provided txt file before passing it to the indexer
 from __future__ import unicode_literals, print_function
 
 import fileinput
-import sys
 import logging
+import sys
+import re
 
 
 class TextTidy(object):
@@ -18,15 +19,21 @@ class TextTidy(object):
     PAGE_NUMBER = '\x0c'
     PAGE_BREAK = '\x1f\x1d'
 
-    def __init__(self, _in):
+    PAGE_NUMBER_RE = re.compile(r'^[\s\d]+$')
+
+    def __init__(self, _in, chapter_break=''):
         self._in = _in
         self._logger = logging.getLogger(self.__class__.__name__)
+        self._chapter_break = chapter_break
 
     def tidy(self, output=sys.stdout):
         buf = ''
 
         def _write(_line):
             output.write(_line + "\n")
+
+        def _write_debug(_line):
+            pass  # output.write('##' + _line + "##\n")
 
         # do the stuff
         for line in self._in:
@@ -36,17 +43,23 @@ class TextTidy(object):
                 self._logger.error('UTF-8 encoding error', exc_info=True)
                 print(line)
 
-            line = line.strip()
+            line = line.rstrip()
+
+            _write_debug('#' + line + '#')
 
             # empty headings
             if line.startswith(self.EMPTY_HEADING):
+                _write_debug('FOO_EMPTY_HEADING')
                 pass
             # page numbers
-            elif line.startswith(self.PAGE_NUMBER):
+            elif line.startswith(self.PAGE_NUMBER) and self.PAGE_NUMBER_RE.match(line):
+                _write_debug('FOO_PAGE_NUMBER')
                 continue
             # page breaks - headings
             elif line.startswith(self.PAGE_BREAK):
                 line = line[2:]  # remove magic characters
+
+                _write_debug('FOO_PAGE_BREAK')
 
                 # ignore empty headings followed by the title
                 if len(line) == 0:
@@ -54,9 +67,15 @@ class TextTidy(object):
 
                 line = "\n{}".format(line)
 
-            # headings for subsequent pages in the same chapter - can be skipped
+            # mark chapters (if they're written uppercase)
             if line.startswith('\x0c'):
-                continue
+                chapter = line[1:]
+
+                if chapter.isupper():
+                    _write_debug('FOO_CHAPTER')
+                    line = self._chapter_break + line[1:]
+                else:
+                    continue
 
             # cleanup
             line = line.replace('\x1f', '')
