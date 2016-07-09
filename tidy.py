@@ -33,7 +33,8 @@ class TextTidy(object):
             output.write(_line + "\n")
 
         def _write_debug(_line):
-            pass  # output.write('##' + _line + "##\n")
+            # output.write('##' + _line + "##\n")
+            pass
 
         # do the stuff
         for line in self._in:

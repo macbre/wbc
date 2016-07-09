@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Generates SphinxSE-compatible XML stream with documents from a given publication
+"""Generates SphinxSE-compatible XML stream with documents from a given publication / set of publications
 
 XML can then be used to index publication using SphinxSE xmlpipe2 feature
 
@@ -11,7 +11,7 @@ Usage:
   make_xml.py --version
 
 Arguments:
-  ID            Publication ID
+  ID            Publication ID (can be comma-separated list of IDs)
 
 Options:
   -h --help     Show this screen.
@@ -106,6 +106,8 @@ class SphinxXML(object):
         self._generator.endElement(self.TAG_ROOT)
         self._generator.endDocument()
 
+        self._logger.info('XML closed')
+
 
 def get_content_stream(publication_id, issue_year, issue_id, chapter_break=''):
     """
@@ -133,8 +135,8 @@ def run(args):
     """
     chapter_break = '__CHAPTER__'
 
-    publication_id = args['ID']
-    logging.info('Generating XML for publication #{}'.format(publication_id))
+    publication_ids = args['ID']
+    logging.info('Generating XML for publication(s): {}'.format(publication_ids))
 
     xml = SphinxXML()
 
@@ -155,35 +157,40 @@ def run(args):
 
     xml.start()
 
-    # read index.json for the publication
-    index_path = 'publications/{}/index.json'.format(publication_id)
-    with open(index_path) as fp:
-        publication_data = json.load(fp)
+    for publication_id in publication_ids.split(','):
+        # read index.json for the publication
+        index_path = 'publications/{}/index.json'.format(publication_id)
+        with open(index_path) as fp:
+            publication_data = json.load(fp)
 
-    logging.info("Got {} issues for '{}'".format(publication_data['count'], publication_data['name'].encode('utf-8')))
+        logging.info("Got {} issues for '{}'".format(publication_data['count'], publication_data['name'].encode('utf-8')))
 
-    # add documents
-    for issue in publication_data['issues']:
-        published_year = issue['year'].split('_')[-1]  # 1951_1956
+        # add documents
+        for issue in publication_data['issues']:
+            published_year = issue['year'].split('_')[-1]  # 1951_1956
 
-        content = get_content_stream(publication_id, issue['year'], issue['id'], chapter_break=chapter_break)
+            try:
+                content = get_content_stream(publication_id, issue['year'], issue['id'], chapter_break=chapter_break)
+            except IOError:
+                logging.error('Failed opening an issue file', exc_info=True)
+                continue
 
-        # split by chapters and index them separately
-        chapters = content.getvalue().split(chapter_break)
+            # split by chapters and index them separately
+            chapters = content.getvalue().split(chapter_break)
 
-        for chapter in chapters:
-            xml.add_document(
-                document_id=str(issue['id']),
-                title=issue['name'].encode('utf-8'),
-                chapter=chapter.split("\n")[0].strip(),
-                content=chapter,
-                published_year=published_year,
-                publication_id=publication_id
-            )
+            for chapter in chapters:
+                xml.add_document(
+                    document_id=str(issue['id']),
+                    title=issue['name'].encode('utf-8'),
+                    chapter=chapter.split("\n")[0].strip(),
+                    content=chapter,
+                    published_year=published_year,
+                    publication_id=publication_id
+                )
 
-        content.close()
+            content.close()
 
     xml.end()
 
 if __name__ == '__main__':
-    run(docopt(__doc__, version='WBC v0.1'))
+    run(docopt(__doc__, version='WBC v1.0'))
