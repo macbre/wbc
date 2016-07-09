@@ -1,0 +1,63 @@
+{
+  "copyrights": "no info",
+  "count": 7,
+  "index": "http://www.wbc.poznan.pl/dlibra/publication?id=138074&tab=1",
+  "issues": [
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/147444/index.djvu",
+      "id": 147444,
+      "name": "Ilustrowany Kurjer Zachodni: codzienne pismo poranne 1926.10.06 Nr7",
+      "year": "1926",
+      "zip": "http://www.wbc.poznan.pl/Content/147444/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/147855/index.djvu",
+      "id": 147855,
+      "name": "Ilustrowany Kurjer Zachodni: codzienne pismo poranne 1926.10.05 Nr6",
+      "year": "1926",
+      "zip": "http://www.wbc.poznan.pl/Content/147855/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/147443/index.djvu",
+      "id": 147443,
+      "name": "Ilustrowany Kurjer Zachodni: codzienne pismo poranne 1926.10.04 Nr5",
+      "year": "1926",
+      "zip": "http://www.wbc.poznan.pl/Content/147443/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/147442/index.djvu",
+      "id": 147442,
+      "name": "Ilustrowany Kurjer Zachodni: codzienne pismo poranne 1926.10.04 Nr4",
+      "year": "1926",
+      "zip": "http://www.wbc.poznan.pl/Content/147442/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/147441/index.djvu",
+      "id": 147441,
+      "name": "Ilustrowany Kurjer Zachodni: codzienne pismo poranne 1926.10.02 Nr3",
+      "year": "1926",
+      "zip": "http://www.wbc.poznan.pl/Content/147441/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/147440/index.djvu",
+      "id": 147440,
+      "name": "Ilustrowany Kurjer Zachodni: codzienne pismo poranne 1926.10.01 Nr2",
+      "year": "1926",
+      "zip": "http://www.wbc.poznan.pl/Content/147440/zip/"
+    },
+    {
+      "djvu": "http://www.wbc.poznan.pl/Content/147439/index.djvu",
+      "id": 147439,
+      "name": "Ilustrowany Kurjer Zachodni: codzienne pismo poranne 1926.09.30 Nr1",
+      "year": "1926",
+      "zip": "http://www.wbc.poznan.pl/Content/147439/zip/"
+    }
+  ],
+  "name": "Ilustrowany Kurjer Zachodni: codzienne pismo poranne",
+  "years": [
+    {
+      "index": "http://www.wbc.poznan.pl/dlibra/publication/138075?tab=1",
+      "year": "1926"
+    }
+  ]
+}
