@@ -3,7 +3,7 @@ services:
   sphinx:
     build:
       context: .
-    command: "searchd --console --config /opt/sphinx.conf"
+    command: "searchd --nodetach --config /opt/sphinx.conf"
     ports:
     - "36307:36307"
     volumes:
