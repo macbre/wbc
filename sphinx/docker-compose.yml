@@ -12,3 +12,4 @@ services:
       driver: syslog
       options:
         tag: sphinx
+    hostname: sphinx-docker
