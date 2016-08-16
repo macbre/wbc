@@ -29,7 +29,7 @@ from docopt import docopt
 
 from tidy import TextTidy
 
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.INFO)
 
 
 class SphinxXML(object):
