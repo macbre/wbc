@@ -18,6 +18,7 @@ def test(fixture):
 if __name__ == "__main__":
     # test('tests/fixtures/test_001.txt')  # chapter
     # test('tests/fixtures/test_002.txt')  # chapter
-    test('tests/fixtures/test_003.txt')  # chapter
+    # test('tests/fixtures/test_003.txt')  # chapter
+    test('tests/fixtures/test_004.txt')  # chapter
     # test('publications/106644/issues/2001/168143.txt')  # KMP
     # test('publications/177804/issues/1939/172528.txt')  # Warciarz
