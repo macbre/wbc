@@ -32,12 +32,11 @@ class TextTidy(object):
         def _write(_line):
             output.write(_line + "\n")
 
-        def _write_debug(_line):
-            # output.write('##' + _line + "##\n")
-            pass
-
         # do the stuff
-        for line in self._in:
+        for i, line in enumerate(self._in):
+            def _debug(msg):
+                self._logger.debug('{} : [{}]'.format(i+1, msg))
+
             try:
                 line = line.decode('utf-8', 'ignore')
             except UnicodeDecodeError:
@@ -46,35 +45,41 @@ class TextTidy(object):
 
             line = line.rstrip()
 
-            _write_debug('#' + line + '#')
+            _debug(line)
 
             # empty headings
             if line.startswith(self.EMPTY_HEADING):
-                _write_debug('FOO_EMPTY_HEADING')
+                _debug('FOO_EMPTY_HEADING')
                 pass
             # page numbers
             elif line.startswith(self.PAGE_NUMBER) and self.PAGE_NUMBER_RE.match(line):
-                _write_debug('FOO_PAGE_NUMBER')
+                _debug('FOO_PAGE_NUMBER')
                 continue
             # page breaks - headings
             elif line.startswith(self.PAGE_BREAK):
                 line = line[2:]  # remove magic characters
 
-                _write_debug('FOO_PAGE_BREAK')
+                _debug('FOO_PAGE_BREAK')
 
-                # ignore empty headings followed by the title
-                if len(line) == 0:
+                # ignore empty headings followed by the title (len == 0)
+                # and chapters with a single character per line (len == 1)
+                if len(line) < 2:
                     continue
 
                 line = "\n{}".format(line)
 
             # mark chapters (if they're written uppercase)
             if line.startswith('\x0c'):
-                chapter = line[1:]
+                chapter = line[1:].strip()
 
                 if chapter.isupper():
-                    _write_debug('FOO_CHAPTER')
-                    line = self._chapter_break + line[1:]
+                    _debug('FOO_CHAPTER')
+
+                    # ignore chapters with a single character per line (len == 1)
+                    if len(chapter) > 1:
+                        line = self._chapter_break + line[1:]
+                    else:
+                        line = self._chapter_break
                 else:
                     continue
 
