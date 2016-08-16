@@ -35,7 +35,7 @@ class TextTidy(object):
         # do the stuff
         for i, line in enumerate(self._in):
             def _debug(msg):
-                self._logger.debug('{} : [{}]'.format(i+1, msg))
+                self._logger.debug('{} : [{}] ({} chars)'.format(i+1, msg, len(msg)))
 
             try:
                 line = line.decode('utf-8', 'ignore')
@@ -52,7 +52,8 @@ class TextTidy(object):
                 _debug('FOO_EMPTY_HEADING')
                 pass
             # page numbers
-            elif line.startswith(self.PAGE_NUMBER) and self.PAGE_NUMBER_RE.match(line):
+            elif (line.startswith(self.PAGE_NUMBER) or line.startswith(self.PAGE_BREAK)) \
+                    and self.PAGE_NUMBER_RE.match(line.replace(self.PAGE_BREAK, '')):
                 _debug('FOO_PAGE_NUMBER')
                 continue
             # page breaks - headings
@@ -69,11 +70,11 @@ class TextTidy(object):
                 line = "\n{}".format(line)
 
             # mark chapters (if they're written uppercase)
-            if line.startswith('\x0c'):
-                chapter = line[1:].strip()
+            if line.startswith(self.PAGE_NUMBER):
+                chapter = line[1:].lstrip()
 
                 if chapter.isupper():
-                    _debug('FOO_CHAPTER')
+                    _debug('FOO_CHAPTER - [{}]'.format(chapter))
 
                     # ignore chapters with a single character per line (len == 1)
                     if len(chapter) > 1:
@@ -85,6 +86,7 @@ class TextTidy(object):
 
             # cleanup
             line = line.replace('\x1f', '')
+            # _debug(line)
 
             # merge consecutive lines that end with a line break (-)
             if line.endswith('-') and not line.endswith(' -'):
@@ -93,7 +95,7 @@ class TextTidy(object):
             elif not line.endswith('.'):
                 buf += line + ' '
             else:
-                _write((buf + line).rstrip())
+                _write((buf + line).replace(" \n", "\n").rstrip())
                 buf = ''
 
         # print any remaining lines

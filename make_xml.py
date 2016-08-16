@@ -179,6 +179,8 @@ def run(args):
             chapters = content.getvalue().split(chapter_break)
 
             for chapter in chapters:
+                chapter = chapter.strip()
+
                 xml.add_document(
                     document_id=str(issue['id']),
                     title=issue['name'].encode('utf-8'),
