@@ -48,11 +48,12 @@ def generate():
     Execute the script with provided arguments
     """
     args = docopt(__doc__, version='WBC v1.0')
+    logger = logging.getLogger('generate_xml')
 
     chapter_break = '__CHAPTER__'
 
     publication_ids = args['ID']
-    logging.info('Generating XML for publication(s): {}'.format(publication_ids))
+    logger.info('Generating XML for publication(s): {}'.format(publication_ids))
 
     xml = SphinxXML()
 
@@ -79,7 +80,7 @@ def generate():
         with open(index_path) as fp:
             publication_data = json.load(fp)
 
-        logging.info("Got {} issues for '{}'".format(
+        logger.info("Got {} issues for '{}'".format(
             publication_data['count'], publication_data['name'].encode('utf-8')))
 
         # add documents
@@ -89,7 +90,7 @@ def generate():
             try:
                 content = get_content_stream(publication_id, issue['year'], issue['id'], chapter_break=chapter_break)
             except IOError:
-                logging.error('Failed opening an issue file', exc_info=True)
+                logger.error('Failed opening an issue file', exc_info=True)
                 continue
 
             # split by chapters and index them separately
