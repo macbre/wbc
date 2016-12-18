@@ -13,4 +13,4 @@ from wbc.tidy import TextTidy
 
 def main():
     tidy = TextTidy(fileinput.input())
-    tidy.tidy(sys.stdout)
+    tidy.tidy(output=sys.stdout)

@@ -33,6 +33,9 @@ class TextTidy(object):
             except UnicodeDecodeError:
                 self._logger.error('UTF-8 encoding error', exc_info=True)
                 print(line)
+            except AttributeError:
+                # AttributeError: 'str' object has no attribute 'decode'
+                pass
 
             line = line.rstrip()
 
