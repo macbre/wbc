@@ -11,14 +11,17 @@ z zasobów [Wielkopolskiej Biblioteki Cyfrowej](http://www.wbc.poznan.pl/dlibra)
 * ``djvutxt`` z pakietu ``djvulibre-bin``
 
 ```
+virtualenv env
+source env/bin/activate
+
 sudo apt-get install djvulibre-bin python-lxml
-sudo pip install -r requirements.txt
+sudo pip install -e .
 ```
 
 ## Pobieranie
 
 ```
-./fetch.py [--no-fetch] <ID publikacji>
+fetch [--no-fetch] <ID publikacji>
 ```
 
 ## Struktura katalogów
@@ -37,7 +40,7 @@ sudo pip install -r requirements.txt
 Aby wygenerować plik dla [źródła SphinxSE `xmlpipe2`](http://sphinxsearch.com/docs/current/xmlpipe2.html):
 
 ```
-./make_xml.py 106644 | gzip -c > 106644.xml.gz
+generate_xml 106644 | gzip -c > 106644.xml.gz
 ```
 
 ## Publikacje
