@@ -85,6 +85,10 @@ class TextTidy(object):
             # merge consecutive lines that end with a line break (-)
             if line.endswith('-') and not line.endswith(' -'):
                 buf += line[:-1]
+            # merge lines that start with a lowercase (issue #8)
+            elif len(line) > 0 and line.lstrip()[0].islower():
+                _debug('LOWER_CASE - [{}]'.format(line))
+                buf = buf.rstrip('.- ') + line.lstrip() + ' '
             # merge lines that belong to a single sentence
             elif not line.endswith('.'):
                 buf += line + ' '
