@@ -11,11 +11,12 @@ z zasobów [Wielkopolskiej Biblioteki Cyfrowej](http://www.wbc.poznan.pl/dlibra)
 * ``djvutxt`` z pakietu ``djvulibre-bin``
 
 ```
-virtualenv env
+sudo apt-get install djvulibre-bin python-lxml
+
+virtualenv --system-site-packages env
 source env/bin/activate
 
-sudo apt-get install djvulibre-bin python-lxml
-sudo pip install -e .
+pip install -U -e .
 ```
 
 ## Pobieranie
