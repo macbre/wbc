@@ -1,5 +1,5 @@
 install:
-	pip install -e .
+	pip install -U -e .
 
 test:
 	py.test tests/
