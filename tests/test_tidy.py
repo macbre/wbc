@@ -13,7 +13,7 @@ class TestTidy(TestCase):
     @staticmethod
     def tidy_fixture(fixture):
         """
-        :type fixture str
+        :type fixture str|unicode
         :rtype str
         """
         output = StringIO()
@@ -24,14 +24,14 @@ class TestTidy(TestCase):
         return output.getvalue()
 
     def test_wordwrap1(self):
-        text = self.tidy_fixture(b'138161.txt')
+        text = self.tidy_fixture('138161.txt')
         print(text)
 
         assert 'kościół św. Jana stanie się prawdziwą atrakcją dla miłośników zabytków' in text
         assert 'plaszczyzny \ndachowej' in text
 
     def test_wordwrap2(self):
-        text = self.tidy_fixture(b'138898.txt')
+        text = self.tidy_fixture('138898.txt')
         print(text)
 
         assert 'Minikowo' in text
@@ -39,7 +39,7 @@ class TestTidy(TestCase):
         assert 'i na wschód od Sródki, przy ul. Miastkowskiego.' in text
 
     def test_headings(self):
-        text = self.tidy_fixture(b'case_001.txt')
+        text = self.tidy_fixture('case_001.txt')
         print(text)
 
         assert '__CHAPTER__\nBOLESŁAW KRYSIEWICZ, LEKARZ PEDIATRA I SPOŁECZNIK, PREZES NACZELNEJ RADY LUDOWEJ' in text
@@ -47,7 +47,7 @@ class TestTidy(TestCase):
             'W roku 1881 zdał maturę i rozpoczął studia na Wydziale Lekarskim Uniwersytetu Wrocławskiego' in text
 
     def test_wordwrap_over_headings(self):
-        text = self.tidy_fixture(b'case_002.txt')
+        text = self.tidy_fixture('case_002.txt')
         print(text)
 
         assert '__CHAPTER__\nMISTRZ MIKOŁAJ - NAJSTARSZY ZNANY LEKARZ POZNAŃSKI' in text
@@ -55,7 +55,7 @@ class TestTidy(TestCase):
         # assert 'gdyż nie zawiera on żadnych medycznych aspektów' in text  # TODO
 
     def test_chapters(self):
-        text = self.tidy_fixture(b'case_004.txt')
+        text = self.tidy_fixture('case_004.txt')
         print(text)
 
         assert 'Puch pozostał bez przywódców. Jedynie w oznaczonym dniu wykonano nieudany najazd na ' in text
