@@ -4,6 +4,3 @@ python:
   - "3.4"
 install: make install
 script: make test
-cache:
-  directories:
-    - /home/travis/virtualenv/
