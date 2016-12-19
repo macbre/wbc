@@ -1,34 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
-"""Imports Fair Use sources in DJVU  format from www.wbc.poznan.pl
-
-Usage:
-  fetch.py [--no-fetch] ID
-  fetch.py (-h | --help)
-  fetch.py --version
-
-Arguments:
-  ID            Publication ID
-
-Options:
-  -h --help     Show this screen.
-  --version     Show version.
-  --no-fetch    Don't fetch, generate index only.
-"""
-
-import json
 import logging
 import os
 import re
 import subprocess
 import tempfile
 
-from docopt import docopt
 from lxml import html
 import requests
-
-logging.basicConfig(level=logging.DEBUG)
 
 
 class WBCError(Exception):
@@ -93,7 +72,8 @@ class WBCFetch(object):
             '</head>',
             '<body>',
             '<h1>%s</h1>' % self._index['name'],
-            u'<p>Archiwum <a href="%s">materiałów udostępnionych</a> przez WBC na <strong>licencji Fair Use</strong></p>'
+            u'<p>Archiwum <a href="%s">materiałów udostępnionych</a>' +
+            ' przez WBC na <strong>licencji Fair Use</strong></p>'
             % self._index['index'].replace('&', '&amp;'),
         ]
         last_year = False
@@ -291,24 +271,3 @@ class WBCFetch(object):
 
                     if process.returncode != 0:
                         raise Exception("Command failed!")
-
-
-def run(args):
-    """
-    Execute WBCFetch with provided arguments
-    """
-    wbc = WBCFetch(publication_id=int(args['ID']), no_fetch=args['--no-fetch'])
-
-    # run the scraper and covert DJVU files to plain text
-    wbc.run()
-
-    # store issues index as JSON
-    with open("%s/index.json" % wbc.get_path(), "w") as out:
-        json.dump(wbc.get_json_index(), out, indent=2, separators=(',', ': '), sort_keys=True)
-
-    # store issues index as HTML
-    with open("%s/index.html" % wbc.get_path(), "w") as out:
-        out.write(wbc.get_html_index().encode('utf8'))
-
-if __name__ == '__main__':
-    run(docopt(__doc__, version='WBC v0.1'))

@@ -1,17 +1,8 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
-"""
-Clean the provided txt file before passing it to the indexer
-
-./tidy.py issue.txt > clean.txt
-"""
 from __future__ import unicode_literals, print_function
 
-import fileinput
 import logging
-import sys
 import re
+import sys
 
 
 class TextTidy(object):
@@ -42,6 +33,9 @@ class TextTidy(object):
             except UnicodeDecodeError:
                 self._logger.error('UTF-8 encoding error', exc_info=True)
                 print(line)
+            except AttributeError:
+                # AttributeError: 'str' object has no attribute 'decode'
+                pass
 
             line = line.rstrip()
 
@@ -91,8 +85,16 @@ class TextTidy(object):
             # merge consecutive lines that end with a line break (-)
             if line.endswith('-') and not line.endswith(' -'):
                 buf += line[:-1]
+            # merge lines that start with a lowercase (issue #8)
+            elif line.startswith('\n') and line[1].islower():
+                _debug('LOWER_CASE - [{}]'.format(line))
+                buf = buf.rstrip('.- ') + line.lstrip() + ' '
+            # merge lines that start with a lowercase (issue #8)
+            elif len(line) > 0 and line[0].islower():
+                _debug('LOWER_CASE - [{}]'.format(line))
+                buf = buf.rstrip('.-') + line.lstrip() + ' '
             # merge lines that belong to a single sentence
-            elif not line.endswith('.'):
+            elif not line.endswith('.') or line.endswith('..'):
                 buf += line + ' '
             else:
                 _write((buf + line).replace(" \n", "\n").rstrip())
@@ -101,11 +103,3 @@ class TextTidy(object):
         # print any remaining lines
         if buf != '':
             _write(buf)
-
-
-def main():
-    tidy = TextTidy(fileinput.input())
-    tidy.tidy(sys.stdout)
-
-if __name__ == '__main__':
-    main()
