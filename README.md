@@ -1,4 +1,4 @@
-wbc
+wbc [![Build Status](https://travis-ci.org/macbre/wbc.svg?branch=master)](https://travis-ci.org/macbre/wbc)
 ===
 
 Skrypt importujący publikacje na licencji **Fair Use** w formacie DJVU
