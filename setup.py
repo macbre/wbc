@@ -12,7 +12,7 @@ setup(
     install_requires=[
         'coverage==4.2',
         'docopt==0.6.2',
-        'lxml==3.4.0',  # use the version provided by python-lxml package
+        'lxml>=3.4.0',  # use the version provided by python-lxml package
         'pytest==2.9.2',
         'requests==2.10.0',
     ],
