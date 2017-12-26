@@ -42,9 +42,12 @@ Aby wygenerować plik dla [źródła SphinxSE `xmlpipe2`](http://sphinxsearch.co
 
 ```
 generate_xml 106644 | gzip -c > 106644.xml.gz
+generate_xml 106644,142333 | gzip -c > kronika_gazeta_wielkiego_ksiestwa.xml.gz
 ```
 
 ## Publikacje
 
 * [Kronika Miasta Poznania](http://www.wbc.poznan.pl/dlibra/publication?id=106644)
 * [Dziennik Poznański](http://www.wbc.poznan.pl/dlibra/publication?id=2290)
+
+* [Fetch the Sphinx XML](http://s3.macbre.net/wbc/kronika_gazeta_wielkiego_ksiestwa.xml.gz)
