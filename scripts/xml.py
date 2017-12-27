@@ -21,6 +21,8 @@ import json
 from io import StringIO
 from docopt import docopt
 
+import readtime
+
 from wbc.tidy import TextTidy
 from wbc.sphinx import SphinxXML
 
@@ -68,6 +70,7 @@ def generate():
     xml.add_attr('title', 'string')
     xml.add_attr('chapter', 'string')
     xml.add_attr('content', 'string')
+    xml.add_attr('read_time', 'int')
     xml.add_attr('published_year', 'int')
     xml.add_attr('publication_id', 'int')
     xml.add_attr('document_id', 'int')
@@ -104,6 +107,7 @@ def generate():
                     title=issue['name'].encode('utf-8'),
                     chapter=chapter.split("\n")[0].strip(),
                     content=chapter,
+                    read_time=readtime.of_text(chapter),
                     published_year=published_year,
                     publication_id=publication_id
                 )

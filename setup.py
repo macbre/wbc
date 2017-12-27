@@ -14,6 +14,7 @@ setup(
         'docopt==0.6.2',
         'lxml>=3.4.0',  # use the version provided by python-lxml package
         'pytest==2.9.2',
+        'readtime==1.0.5',
         'requests==2.10.0',
     ],
     include_package_data=True,
