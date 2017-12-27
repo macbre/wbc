@@ -107,7 +107,7 @@ def generate():
                     title=issue['name'].encode('utf-8'),
                     chapter=chapter.split("\n")[0].strip(),
                     content=chapter,
-                    read_time=readtime.of_text(chapter),
+                    read_time=str(readtime.of_text(chapter).seconds),
                     published_year=published_year,
                     publication_id=publication_id
                 )
