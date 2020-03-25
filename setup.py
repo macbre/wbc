@@ -15,7 +15,7 @@ setup(
         'lxml>=3.4.0',  # use the version provided by python-lxml package
         'pytest==2.9.2',
         'readtime==1.0.5',
-        'requests==2.10.0',
+        'requests==2.20.0',
     ],
     include_package_data=True,
     entry_points={
