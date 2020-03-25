@@ -6,7 +6,7 @@ z zasobów [Wielkopolskiej Biblioteki Cyfrowej](http://www.wbc.poznan.pl/dlibra)
 
 ## Wymagania
 
-* Python 2.7 / 3.4
+* Python 3.6+
 * curl + ungzip
 * ``djvutxt`` z pakietu ``djvulibre-bin``
 
