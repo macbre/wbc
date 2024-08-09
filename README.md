@@ -1,5 +1,6 @@
-wbc [![Build Status](https://travis-ci.org/macbre/wbc.svg?branch=master)](https://travis-ci.org/macbre/wbc)
+wbc
 ===
+[![Build status](https://github.com/macbre/wbc/actions/workflows/test.yml/badge.svg)](https://github.com/macbre/wbc/actions/workflows/test.yml)
 
 Skrypt importujący publikacje na licencji **Fair Use** w formacie DJVU
 z zasobów [Wielkopolskiej Biblioteki Cyfrowej](http://www.wbc.poznan.pl/dlibra)
