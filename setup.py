@@ -13,7 +13,7 @@ setup(
         'coverage==7.8.2',
         'docopt==0.6.2',
         'lxml>=3.4.0',  # use the version provided by python-lxml package
-        'pytest==8.3.5',
+        'pytest==8.4.1',
         'readtime==3.0.0',
         'requests==2.32.3',
     ],
