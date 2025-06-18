@@ -10,7 +10,7 @@ setup(
     url='https://github.com/macbre/wbc',
     packages=find_packages(),
     install_requires=[
-        'coverage==7.8.2',
+        'coverage==7.9.1',
         'docopt==0.6.2',
         'lxml>=3.4.0',  # use the version provided by python-lxml package
         'pytest==8.4.1',
